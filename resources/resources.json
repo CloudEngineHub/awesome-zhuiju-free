@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-09-28",
+  "updated_at": "2026-09-30",
   "resources": [
     {
       "id": "no-video",
@@ -171,16 +171,16 @@
         "payment": "unknown"
       },
       "verification": {
-        "status": "caution",
-        "last_checked": "2026-06-13",
+        "status": "removed",
+        "last_checked": "2026-09-30",
         "method": "manual",
-        "notes": "用户推荐资源，主打国内海外影视剧资源；内容来源、版权状态与站点安全性需要持续观察。"
+        "notes": "维护者反馈网站已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
       },
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-06-13"
       },
-      "featured": true
+      "featured": false
     },
     {
       "id": "duonao-video",
@@ -479,16 +479,16 @@
         "payment": "unknown"
       },
       "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-04",
+        "status": "removed",
+        "last_checked": "2026-09-30",
         "method": "manual",
-        "notes": "根据用户补充将访问地址从 https://jpyy2.com 更新为 https://www.vv3nwjk.com；推荐指数 5 星，测评备注为全网VIP资源；截图状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
+        "notes": "维护者反馈网站已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
       },
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-06-19"
       },
-      "featured": true
+      "featured": false
     },
     {
       "id": "tv-937",
@@ -919,16 +919,16 @@
         "payment": "unknown"
       },
       "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-04",
+        "status": "removed",
+        "last_checked": "2026-09-30",
         "method": "manual",
-        "notes": "根据截图信息收录：推荐指数 5 星，测评备注为热门国剧，更新快，无广告；截图状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
+        "notes": "维护者反馈网站已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
       },
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-07-04"
       },
-      "featured": true
+      "featured": false
     },
     {
       "id": "ppnix",

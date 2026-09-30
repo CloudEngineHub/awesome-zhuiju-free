@@ -1,9 +1,9 @@
 {
-  "version": 6,
-  "updated_at": "2026-08-09T23:01:38+08:00",
+  "version": 10,
+  "updated_at": "2026-09-30T22:00:34+08:00",
   "backend": {
     "name": "追剧么指南",
-    "url": "https://zhuiju.me/dash#sites",
+    "url": "https://zhuiju.me/admin#sites",
     "categories": [
       "在线影视",
       "网盘搜索",
@@ -16,7 +16,7 @@
   },
   "source": {
     "file": "README.md",
-    "repository_commit": "8863053243f5f96aedb7ea6a17473ade84554ee4",
+    "repository_commit": "baabaa6d203fde69a6eec4df608aabe0f6775c82",
     "categories": [
       {
         "backend_category": "在线影视",
@@ -51,21 +51,119 @@
     ]
   },
   "sync_rules": {
-    "sort": "分类内按 README 当前展示顺序编号；在线影视从 50 开始，网盘搜索和TVBox接口从 1 开始，磁力BT、字幕组和TVBox软件从 5 开始，开源项目从 10 开始",
+    "sort": "分类内按 README 当前展示顺序编号；在线影视原批次为 50–69，2026-08-29 新增五星批次按 README 倒序录入为 49–37，ZIP0 置顶为 36；网盘搜索和TVBox接口从 1 开始；磁力BT原批次为 5–14，2026-08-29 新增五星批次为 4–2；字幕组和TVBox软件从 5 开始；开源项目原批次为 10–24，Bangumi 追加为 25",
     "internal_url": "留空",
     "external_url": "使用 README 中的资源链接",
     "icon": "点击获取图标；获取失败时保留默认图标",
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-08-09T23:01:00+08:00",
+    "verified_at": "2026-08-30T09:16:26+08:00",
     "verification_method": "通过已登录的 Chrome 后台读取站点总数和页面顺序",
-    "total_site_count": 59,
+    "total_site_count": 77,
     "categories": [
       {
         "name": "在线影视",
-        "site_count": 20,
+        "site_count": 34,
         "sites": [
+      {
+        "name": "ZIP0",
+        "description": "在线影视搜索与播放",
+        "external_url": "https://zip0.com/",
+        "sort": 36,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "剧OK",
+        "description": "最新电视剧、最新电影",
+        "external_url": "https://juok3.top/",
+        "sort": 37,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "蛋蛋奇",
+        "description": "最新电视剧/电影/无广告",
+        "external_url": "https://www.dandanqi.cc/",
+        "sort": 38,
+        "icon_status": "default_fetch_failed"
+      },
+      {
+        "name": "影视大全",
+        "description": "在线搜索播放、官解无广",
+        "external_url": "https://yingshidaquan.top/",
+        "sort": 39,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "剧踪影院",
+        "description": "海内外 SVIP 超前更新",
+        "external_url": "https://www.juzong01.me/",
+        "sort": 40,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "简云影视",
+        "description": "纯净无广告/1080P高清秒播",
+        "external_url": "https://jianyunys.com/",
+        "sort": 41,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "片库",
+        "description": "纯净无广告/1080P高清秒播",
+        "external_url": "https://4k01.pianku.online/",
+        "sort": 42,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "66 大片网",
+        "description": "免费电影在线观看",
+        "external_url": "https://www.77dpw.vip/",
+        "sort": 43,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "星河影视",
+        "description": "高清无广告_弹幕",
+        "external_url": "https://www.xhkan.top/",
+        "sort": 44,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "嘀嗒影视",
+        "description": "高分电影聚集地，超清秒播",
+        "external_url": "https://www.didahd.xyz/",
+        "sort": 45,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "追影",
+        "description": "蓝光高清、无广告免费在线秒播",
+        "external_url": "https://zhuiying3.cc/",
+        "sort": 46,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "歪比巴卜",
+        "description": "高清视频免费在线观看",
+        "external_url": "https://wbbb1.com/",
+        "sort": 47,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "开心影院",
+        "description": "最新电影热播电视剧",
+        "external_url": "https://www.kxyy1.cc/",
+        "sort": 48,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "豆花电影网",
+        "description": "最新免费电影_在线观看",
+        "external_url": "https://dhvideo.cc/",
+        "sort": 49,
+        "icon_status": "fetched"
+      },
       {
         "name": "饭搭子影视",
         "description": "最新热门电影电视剧动漫综艺",
@@ -244,8 +342,29 @@
       },
       {
         "name": "磁力BT",
-        "site_count": 10,
+        "site_count": 13,
         "sites": [
+          {
+            "name": "BD影视聚合",
+            "description": "最新高清电影电视剧下载",
+            "external_url": "https://www.juhebd.com/",
+            "sort": 2,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "BD电影首发",
+            "description": "4K蓝光高清电影更新",
+            "external_url": "https://www.bdflixs.com/",
+            "sort": 3,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "找电影时光",
+            "description": "影视高清晰无水印下载",
+            "external_url": "https://www.ldysg.win/",
+            "sort": 4,
+            "icon_status": "fetched"
+          },
           {
             "name": "磁力帝",
             "description": "地址发布页cldi.top",
@@ -261,9 +380,9 @@
             "icon_status": "fetched"
           },
           {
-            "name": "4K原盘",
+            "name": "POMO",
             "description": "4K原盘免费下载",
-            "external_url": "https://pomo.mom",
+            "external_url": "https://pomo.mom/",
             "sort": 7,
             "icon_status": "fetched"
           },
@@ -408,7 +527,7 @@
       },
       {
         "name": "开源项目",
-        "site_count": 15,
+        "site_count": 16,
         "sites": [
           {
             "name": "iptv",
@@ -513,6 +632,13 @@
             "description": "现代化跨平台视频播放器空壳应用",
             "external_url": "https://github.com/sky22333/sky-tv",
             "sort": 24,
+            "icon_status": "fetched"
+          },
+          {
+            "name": "Bangumi",
+            "description": "专门做 ACG 的类豆瓣追番客户端",
+            "external_url": "https://github.com/czy0729/Bangumi",
+            "sort": 25,
             "icon_status": "fetched"
           }
         ]
@@ -633,6 +759,53 @@
       "details": "创建导航自定义分类“开源项目”，按 README 顺序添加全部 15 条资源，排序为 10 至 24；内网地址留空，外网地址使用 README 链接。",
       "added_count": 15,
       "icon_fetch_failed": []
+    },
+    {
+      "id": "2026-08-29-online-five-star-sync",
+      "performed_by": "codex_via_chrome",
+      "action": "sync",
+      "category": "在线影视",
+      "source_section": "精选资源 > 在线影视",
+      "filter": "2026-08-29 新增且推荐指数为 5 星",
+      "details": "按 README 展示顺序的反向录入：从豆花电影网排序 49 开始逐项递减，最后添加剧OK为 37，使导航最终展示顺序与 README 一致且剧OK序号最小。内网地址留空，外网地址使用 README 链接。",
+      "added_count": 13,
+      "sort_range": "37-49",
+      "icon_fetch_failed": [
+        "蛋蛋奇"
+      ],
+      "repository_commit": "59a49d9cdd90247745939280f0c99832a62e7cbb"
+    },
+    {
+      "id": "2026-08-29-magnet-and-bangumi-sync",
+      "performed_by": "codex_via_chrome",
+      "action": "sync_and_update",
+      "details": "磁力BT新增当天五星资源：找电影时光为 4、BD电影首发为 3、BD影视聚合为 2，最终展示顺序与 README 一致；将原“4K原盘”更新为“POMO”并同步链接；开源项目不整体重排，将当天新增 Bangumi 追加到最后，排序为 25。",
+      "added_count": 4,
+      "updated_count": 1,
+      "icon_fetch_failed": [],
+      "repository_commit": "59a49d9cdd90247745939280f0c99832a62e7cbb"
+    },
+    {
+      "id": "2026-08-30-zip0-add",
+      "performed_by": "codex_via_chrome",
+      "action": "add",
+      "category": "在线影视",
+      "details": "将 ZIP0 添加到在线影视分类最前，排序为 36；内网地址留空，外网地址使用 README 链接。",
+      "added_count": 1,
+      "icon_fetch_failed": [],
+      "repository_commit": "baabaa6d203fde69a6eec4df608aabe0f6775c82"
+    },
+    {
+      "id": "2026-09-30-remove-nivod-jpyy",
+      "performed_by": "codex_via_chrome",
+      "action": "delete",
+      "category": "在线影视",
+      "details": "根据维护者反馈，从 zhuiju.me 后台删除泥视频和金牌影视。操作后确认站点总数为 72，在线影视分类为 29，列表中已无这两个站点。",
+      "deleted_count": 2,
+      "deleted_sites": [
+        "泥视频",
+        "金牌影视"
+      ]
     }
   ]
 }

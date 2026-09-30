@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-13",
+  "updated_at": "2026-09-30",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -892,6 +892,23 @@
       },
       "result": "pending_review",
       "notes": "根据维护者亲测收录 iOS影视APP 合集（https://b.zhuiju.me/archives/23/），包含多款通过伪装方式在 App Store 上架的免费影视应用；应用含广告，上架状态、内容来源、版权及隐私安全需要持续观察。"
+    },
+    {
+      "id": "verify-20260930-online-video-removal",
+      "resource_ids": [
+        "nivod",
+        "xlys",
+        "jpyy"
+      ],
+      "checked_at": "2026-09-30",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user reported"
+      },
+      "result": "removed",
+      "notes": "维护者反馈泥视频、雪落影视和金牌影视已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
     }
   ]
 }
