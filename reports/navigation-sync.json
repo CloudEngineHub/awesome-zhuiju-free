@@ -1,11 +1,12 @@
 {
-  "version": 10,
-  "updated_at": "2026-09-30T22:00:34+08:00",
+  "version": 11,
+  "updated_at": "2026-10-01T08:46:00+08:00",
   "backend": {
     "name": "追剧么指南",
     "url": "https://zhuiju.me/admin#sites",
     "categories": [
       "在线影视",
+      "影视APP",
       "网盘搜索",
       "磁力BT",
       "字幕组",
@@ -16,12 +17,17 @@
   },
   "source": {
     "file": "README.md",
-    "repository_commit": "baabaa6d203fde69a6eec4df608aabe0f6775c82",
+    "repository_commit": "279d875",
     "categories": [
       {
         "backend_category": "在线影视",
         "section": "精选资源 > 在线影视",
         "filter": "推荐指数为 5 星"
+      },
+      {
+        "backend_category": "影视APP",
+        "section": "精选资源 > 影视APP",
+        "filter": "README 列表中的资源"
       },
       {
         "backend_category": "网盘搜索",
@@ -51,21 +57,28 @@
     ]
   },
   "sync_rules": {
-    "sort": "分类内按 README 当前展示顺序编号；在线影视原批次为 50–69，2026-08-29 新增五星批次按 README 倒序录入为 49–37，ZIP0 置顶为 36；网盘搜索和TVBox接口从 1 开始；磁力BT原批次为 5–14，2026-08-29 新增五星批次为 4–2；字幕组和TVBox软件从 5 开始；开源项目原批次为 10–24，Bangumi 追加为 25",
+    "sort": "分类内按 README 当前展示顺序编号；在线影视原批次为 50–69，2026-08-29 新增五星批次按 README 倒序录入为 49–37，ZIP0 为 36，可可影视为 35，PPnix 为 63；影视APP 为 10；网盘搜索和TVBox接口从 1 开始；磁力BT原批次为 5–14，2026-08-29 新增五星批次为 4–2；字幕组和TVBox软件从 5 开始；开源项目原批次为 10–24，Bangumi 追加为 25",
     "internal_url": "留空",
     "external_url": "使用 README 中的资源链接",
     "icon": "点击获取图标；获取失败时保留默认图标",
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-08-30T09:16:26+08:00",
+    "verified_at": "2026-10-01T08:46:00+08:00",
     "verification_method": "通过已登录的 Chrome 后台读取站点总数和页面顺序",
-    "total_site_count": 77,
+    "total_site_count": 73,
     "categories": [
       {
         "name": "在线影视",
-        "site_count": 34,
+        "site_count": 30,
         "sites": [
+      {
+        "name": "可可影视",
+        "description": "最新Netflix新剧_韩国电影",
+        "external_url": "https://www.kkys14.com/",
+        "sort": 35,
+        "icon_status": "existing_default"
+      },
       {
         "name": "ZIP0",
         "description": "在线影视搜索与播放",
@@ -78,20 +91,6 @@
         "description": "最新电视剧、最新电影",
         "external_url": "https://juok3.top/",
         "sort": 37,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "蛋蛋奇",
-        "description": "最新电视剧/电影/无广告",
-        "external_url": "https://www.dandanqi.cc/",
-        "sort": 38,
-        "icon_status": "default_fetch_failed"
-      },
-      {
-        "name": "影视大全",
-        "description": "在线搜索播放、官解无广",
-        "external_url": "https://yingshidaquan.top/",
-        "sort": 39,
         "icon_status": "fetched"
       },
       {
@@ -249,24 +248,10 @@
         "icon_status": "fetched"
       },
       {
-        "name": "泥视频",
-        "description": "热门国剧，更新快，无广告",
-        "external_url": "https://www.nivod.vip",
-        "sort": 62,
-        "icon_status": "fetched"
-      },
-      {
         "name": "PPnix",
-        "description": "热门在线影视，速度快/纯净/无广告",
+        "description": "在线观看电影电视剧",
         "external_url": "https://www.ppnix.com/cn/",
         "sort": 63,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "多瑙影视",
-        "description": "海外华人在线影院（需梯子）",
-        "external_url": "https://www.duonaovod.com",
-        "sort": 64,
         "icon_status": "fetched"
       },
       {
@@ -284,13 +269,6 @@
         "icon_status": "fetched"
       },
       {
-        "name": "金牌影视",
-        "description": "全网VIP资源（需梯子）",
-        "external_url": "https://www.vv3nwjk.com",
-        "sort": 67,
-        "icon_status": "fetched"
-      },
-      {
         "name": "937影视",
         "description": "看全网影视剧（需梯子）",
         "external_url": "https://www.937tv.vip",
@@ -304,6 +282,19 @@
         "sort": 69,
         "icon_status": "fetched"
       }
+        ]
+      },
+      {
+        "name": "影视APP",
+        "site_count": 1,
+        "sites": [
+          {
+            "name": "iOS影视APP",
+            "description": "iOS可用app合集",
+            "external_url": "https://b.zhuiju.me/archives/23/",
+            "sort": 10,
+            "icon_status": "existing_default"
+          }
         ]
       },
       {
@@ -527,7 +518,7 @@
       },
       {
         "name": "开源项目",
-        "site_count": 16,
+        "site_count": 15,
         "sites": [
           {
             "name": "iptv",
@@ -611,13 +602,6 @@
             "description": "基于 FongMi/CatVod 二开的 Android 影音应用",
             "external_url": "https://github.com/fish2018/webhtv",
             "sort": 21,
-            "icon_status": "fetched"
-          },
-          {
-            "name": "羊壳 PeekPro",
-            "description": "基于 FongMi/TV 优化 UI",
-            "external_url": "https://github.com/ingriddaleusag-dotcom/PickTV",
-            "sort": 22,
             "icon_status": "fetched"
           },
           {
@@ -806,6 +790,15 @@
         "泥视频",
         "金牌影视"
       ]
+    },
+    {
+      "id": "2026-10-01-ppnix-add",
+      "performed_by": "codex_via_chrome",
+      "action": "add_and_reconcile_baseline",
+      "category": "在线影视",
+      "details": "根据用户要求，在 zhuiju.me 后台添加 PPnix：简介为“在线观看电影电视剧”，外网地址为 https://www.ppnix.com/cn/，排序为 63，图标获取成功，内网地址留空。后台确认站点总数为 73、在线影视为 30，公开页面已出现该链接；同时按后台实际列表修正过时的 current_state 基线。",
+      "added_count": 1,
+      "repository_commit": "279d875"
     }
   ]
 }
