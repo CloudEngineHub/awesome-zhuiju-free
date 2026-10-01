@@ -924,6 +924,22 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充重新收录 PPnix（https://www.ppnix.com/cn/），推荐指数 5 星，简介：在线观看电影电视剧。页面可打开并列出电影、电视剧；后续由 GitHub Actions 持续检测可用性。"
+    },
+    {
+      "id": "verify-20261001-online-video-descriptions",
+      "resource_ids": [
+        "103-39-111-180-29",
+        "sa-video"
+      ],
+      "checked_at": "2026-10-01",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user reported"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充更新简介：可可影视为“最新Netflix新剧（可访问）”，SA视频为“最新电影电视剧动漫综艺（可访问）”。可访问为用户反馈；自动检测状态仍以 reports/availability.json 为准。"
     }
   ]
 }

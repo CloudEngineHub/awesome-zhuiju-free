@@ -25,7 +25,7 @@
   <!-- resource-count:start -->
 <a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-117_个资源-00A98F?style=flat-square" alt="已收录 117 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--09--30-00B4D8?style=flat-square" alt="检测时间 2026-09-30" height="24"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--01-00B4D8?style=flat-square" alt="检测时间 2026-10-01" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -91,7 +91,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| [可可影视](<https://www.kkys14.com/>) | 最新Netflix新剧_韩国电影 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:103-39-111-180-29 -->🔴&#8288;无法&#8288;访问<!-- /availability:103-39-111-180-29 --> | <!-- availability-date:103-39-111-180-29 -->2026&#8209;10&#8209;01<!-- /availability-date:103-39-111-180-29 --> |
+| [可可影视](<https://www.kkys14.com/>) | 最新Netflix新剧（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:103-39-111-180-29 -->🔴&#8288;无法&#8288;访问<!-- /availability:103-39-111-180-29 --> | <!-- availability-date:103-39-111-180-29 -->2026&#8209;10&#8209;01<!-- /availability-date:103-39-111-180-29 --> |
 | [ZIP0](<https://zip0.com/?r=KBDIG8>) | 在线影视搜索与播放 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:zip0 -->🟢&#8288;可&#8288;访问<!-- /availability:zip0 --> | <!-- availability-date:zip0 -->2026&#8209;10&#8209;01<!-- /availability-date:zip0 --> |
 | [剧OK](<https://juok3.top/>) | 最新电视剧、最新电影 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:juok -->🟡&#8288;访问&#8288;受限<!-- /availability:juok --> | <!-- availability-date:juok -->2026&#8209;10&#8209;01<!-- /availability-date:juok --> |
 | [剧踪影院](<https://www.juzong01.me/>) | 海内外 SVIP 超前更新 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:juzong -->🟢&#8288;可&#8288;访问<!-- /availability:juzong --> | <!-- availability-date:juzong -->2026&#8209;10&#8209;01<!-- /availability-date:juzong --> |
@@ -105,7 +105,7 @@
 | [开心影院](<https://www.kxyy1.cc/>) | 最新电影热播电视剧 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kxyy -->🟢&#8288;可&#8288;访问<!-- /availability:kxyy --> | <!-- availability-date:kxyy -->2026&#8209;10&#8209;01<!-- /availability-date:kxyy --> |
 | [豆花电影网](<https://dhvideo.cc/>) | 最新免费电影_在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dhvideo -->🟢&#8288;可&#8288;访问<!-- /availability:dhvideo --> | <!-- availability-date:dhvideo -->2026&#8209;10&#8209;01<!-- /availability-date:dhvideo --> |
 | [饭搭子影视](<https://fdzys.com>) | 最新热门电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fdzys -->🟢&#8288;可&#8288;访问<!-- /availability:fdzys --> | <!-- availability-date:fdzys -->2026&#8209;10&#8209;01<!-- /availability-date:fdzys --> |
-| [SA视频](<https://www.lsjys11.com/>) | 最新电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sa-video -->🟢&#8288;可&#8288;访问<!-- /availability:sa-video --> | <!-- availability-date:sa-video -->2026&#8209;10&#8209;01<!-- /availability-date:sa-video --> |
+| [SA视频](<https://www.lsjys11.com/>) | 最新电影电视剧动漫综艺（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sa-video -->🟢&#8288;可&#8288;访问<!-- /availability:sa-video --> | <!-- availability-date:sa-video -->2026&#8209;10&#8209;01<!-- /availability-date:sa-video --> |
 | [91毒舌](<https://www.duse0.com/>) | 最新Netflix新剧、4K高清（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:duse91 -->🔴&#8288;无法&#8288;访问<!-- /availability:duse91 --> | <!-- availability-date:duse91 -->2026&#8209;10&#8209;01<!-- /availability-date:duse91 --> |
 | [好好看](<https://www.hhkan2.com/>) | 4K高清Netflix新剧（可访问需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:haohaokan -->🔴&#8288;无法&#8288;访问<!-- /availability:haohaokan --> | <!-- availability-date:haohaokan -->2026&#8209;10&#8209;01<!-- /availability-date:haohaokan --> |
 | [IFN](<https://ifn.watch/register?code=8B1EF6>) | 为数不多的真4K，部分免费 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ifn -->🟢&#8288;可&#8288;访问<!-- /availability:ifn --> | <!-- availability-date:ifn -->2026&#8209;10&#8209;01<!-- /availability-date:ifn --> |
