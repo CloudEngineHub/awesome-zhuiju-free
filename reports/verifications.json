@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30",
+  "updated_at": "2026-10-01",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -909,6 +909,21 @@
       },
       "result": "removed",
       "notes": "维护者反馈泥视频、雪落影视和金牌影视已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
+    },
+    {
+      "id": "verify-20261001-ppnix-restored",
+      "resource_ids": [
+        "ppnix"
+      ],
+      "checked_at": "2026-10-01",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted; page opened"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充重新收录 PPnix（https://www.ppnix.com/cn/），推荐指数 5 星，简介：在线观看电影电视剧。页面可打开并列出电影、电视剧；后续由 GitHub Actions 持续检测可用性。"
     }
   ]
 }

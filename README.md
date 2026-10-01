@@ -64,7 +64,7 @@
 
 <!-- featured-resources:start -->
 <p align="center">
-  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-44-0A66C2?style=flat-square" alt="在线影视"></a>
+  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-45-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-4-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
@@ -116,6 +116,7 @@
 | [电影人生](<https://dyrs.tv>) | 高清电影在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dyrs -->🟢&#8288;可&#8288;访问<!-- /availability:dyrs --> | <!-- availability-date:dyrs -->2026&#8209;09&#8209;30<!-- /availability-date:dyrs --> |
 | [黑夜影院](<https://darkvod.com>) | 综合影视/资源多/无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:darkvod -->🟡&#8288;访问&#8288;受限<!-- /availability:darkvod --> | <!-- availability-date:darkvod -->2026&#8209;09&#8209;30<!-- /availability-date:darkvod --> |
 | [奈飞工厂](<https://www.netflixgc.com>) | 最新美剧，无广告（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:netflixgc -->🟡&#8288;访问&#8288;受限<!-- /availability:netflixgc --> | <!-- availability-date:netflixgc -->2026&#8209;09&#8209;30<!-- /availability-date:netflixgc --> |
+| [PPnix](<https://www.ppnix.com/cn/>) | 在线观看电影电视剧 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ppnix -->⚪&#8288;未&#8288;检测<!-- /availability:ppnix --> | <!-- availability-date:ppnix -->未检测<!-- /availability-date:ppnix --> |
 | [白嫖者联盟](<https://www.tdgo.shop>) | 热门热播剧，无广告速度快（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tdgo -->🟢&#8288;可&#8288;访问<!-- /availability:tdgo --> | <!-- availability-date:tdgo -->2026&#8209;09&#8209;30<!-- /availability-date:tdgo --> |
 | [爱电影](<https://kuhh4jo.com>) | 最新热门电影/电视剧（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ai-movie -->🟢&#8288;可&#8288;访问<!-- /availability:ai-movie --> | <!-- availability-date:ai-movie -->2026&#8209;09&#8209;30<!-- /availability-date:ai-movie --> |
 | [937影视](<https://www.937tv.vip>) | 看全网影视剧（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tv-937 -->🟡&#8288;访问&#8288;受限<!-- /availability:tv-937 --> | <!-- availability-date:tv-937 -->2026&#8209;09&#8209;30<!-- /availability-date:tv-937 --> |
