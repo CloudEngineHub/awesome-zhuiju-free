@@ -5340,6 +5340,48 @@
         "added_at": "2026-09-13"
       },
       "featured": true
+    },
+    {
+      "id": "tv-lxyy-club-36",
+      "name": "洛雪TV",
+      "url": "https://tv.lxyy.club/",
+      "category": "online_video",
+      "summary": "首选官方采集线路，备选4K无广告线路及超清自适应线路;也支持自由切换多个采集站，并自动过滤插播广告、跑马灯广告。另提供网盘资源、影视解析、电视频道点播等多种观看方式。",
+      "summary_short": "首选官方采集线路，备选4K无广告线路及超清自适应线路;也支持自由切换多个采集站，",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-10-03",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-10-03，中国大陆。 提交者风险说明：广告：无广告、无弹窗、无强制跳转。\n跳转/诱导下载：无。不托管任何影视文件，也不提供在线播放，仅索引第三方网盘（夸克 / 百度）公开分享链接。\n隐私：无需注册登录，不收集手机号等个人信息。\n支付：完全免费，无任何付费或诱导充值。\n版权：所索引的网盘资源由网友分享，可能包含未经授权的内容，此项如实标注为「中-高」。\n利益关系披露：提交者本人为该站站长，与本站存在直接利益关系，特此披露。"
+      },
+      "source": {
+        "submitted_by": "@anyongki",
+        "added_at": "2026-10-10"
+      },
+      "featured": true
     }
   ]
 }
