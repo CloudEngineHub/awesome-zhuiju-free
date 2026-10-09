@@ -5424,6 +5424,48 @@
         "added_at": "2026-10-10"
       },
       "featured": true
+    },
+    {
+      "id": "kanmovie-com-34",
+      "name": "西瓜影视",
+      "url": "https://www.kanmovie.com/",
+      "category": "online_video",
+      "summary": "影视资源齐全，自己一直在看目前没有遇到搜不到的各大平台的会员影视资源",
+      "summary_short": "影视资源齐全，自己一直在看目前没有遇到搜不到的各大平台的会员影视资源",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-10-10",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-10-1，中国大陆。 提交者风险说明：目前没有发现跳转广告诱导下载隐私版权和支付相关的风险"
+      },
+      "source": {
+        "submitted_by": "@miaodongsu7",
+        "added_at": "2026-10-10"
+      },
+      "featured": true
     }
   ]
 }
