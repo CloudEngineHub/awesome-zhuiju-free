@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01",
+  "updated_at": "2026-10-10",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -940,6 +940,21 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充更新简介：可可影视为“最新Netflix新剧（可访问）”，SA视频为“最新电影电视剧动漫综艺（可访问）”。可访问为用户反馈；自动检测状态仍以 reports/availability.json 为准。"
+    },
+    {
+      "id": "verify-20261010-ifn-removed",
+      "resource_ids": [
+        "ifn"
+      ],
+      "checked_at": "2026-10-10",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user reported"
+      },
+      "result": "removed",
+      "notes": "维护者反馈 IFN 已删除；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
     }
   ]
 }
