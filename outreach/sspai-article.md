@@ -25,7 +25,7 @@
 
 如果你经常收藏追剧站、TVBox 配置或网盘搜索入口，真正麻烦的往往不是"找不到资源"，而是**"收藏了之后不知道今天还能不能用"**。
 
-为了解决这个问题，我整理了一个开源项目：[Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free)。它不是普通导航站，而是一份放在 GitHub 上公开维护的免费无广告追剧资源清单：资源数据公开、可提交 Issue 参与维护，并且每天自动检测可用性。
+为了解决这个问题，我整理了一个开源项目：[Awesome Zhuiju Free](https://github.com/laoma528/awesome-zhuiju-free)。它不是普通导航站，而是一份放在 GitHub 上公开维护的免费无广告追剧资源清单：资源数据公开、可提交 Issue 参与维护，并且每天自动检测可用性。
 
 浏览器收藏夹里存十几个站，每次真想看剧还要挨个打开试一遍，这件事其实很低效。免费资源本来就不稳定，域名变化、访问限制、服务异常都很常见，与其指望某一个入口永远可用，不如维护一份会持续更新、会标记状态的清单。
 
@@ -36,7 +36,7 @@
 与其找一个"永远可用"的网站，不如做一个**能告诉你哪些资源当前可用的开源清单**。
 
 Awesome Zhuiju Free 的核心入口是 GitHub 仓库：  
-https://github.com/laoma2053/awesome-zhuiju-free
+https://github.com/laoma528/awesome-zhuiju-free
 
 它的价值主要有三点：
 
@@ -104,7 +104,7 @@ https://zhuiju.me
 
 ### 在哪里用
 
-- **GitHub 仓库（推荐主入口）**：https://github.com/laoma2053/awesome-zhuiju-free
+- **GitHub 仓库（推荐主入口）**：https://github.com/laoma528/awesome-zhuiju-free
 - **在线浏览页面**：https://zhuiju.me
 
 ---

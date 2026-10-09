@@ -60,7 +60,7 @@
 
 以及加上 Stars 徽章：
 ```markdown
-[![GitHub stars](https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=for-the-badge)](https://github.com/laoma2053/awesome-zhuiju-free/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=for-the-badge)](https://github.com/laoma528/awesome-zhuiju-free/stargazers)
 ```
 
 ### 3.2 补全 GitHub 仓库信息
@@ -295,7 +295,7 @@ Issue 回复速度是维持社区活跃度的核心指标，也影响 GitHub 对
   ✅ 完全开源，数据公开，无广告
   ✅ 一键提 Issue 推荐新资源
 网站：https://zhuiju.me
-GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub：https://github.com/laoma528/awesome-zhuiju-free
 ```
 
 根据不同平台调整语气（技术社区偏理性，小红书偏生活化），核心信息不变。

@@ -14,7 +14,7 @@ Awesome Zhuiju Free 做的事情很简单：把免费、相对干净的追剧资
 
 如果你想看完整数据、提交反馈或参与维护，可以打开 GitHub：
 
-- GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+- GitHub：https://github.com/laoma528/awesome-zhuiju-free
 
 GitHub 访问不稳定时，可以使用 Gitee 镜像：
 
@@ -64,7 +64,7 @@ GitHub 访问不稳定时，可以使用 Gitee 镜像：
 
 如果你发现某个资源打不开，可以提交失效反馈：
 
-https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml
+https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml
 
 反馈时建议写清楚：
 
@@ -79,7 +79,7 @@ https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link
 
 如果你知道好用的免费追剧资源，也可以推荐给项目：
 
-https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml
+https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml
 
 推荐前建议先确认：
 
@@ -114,7 +114,7 @@ https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.ym
 如果你经常遇到「收藏夹里一堆影视站，但真正想看时全都打不开」的问题，可以把 Awesome Zhuiju Free 加到收藏夹。
 
 - 网站：https://zhuiju.me
-- GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+- GitHub：https://github.com/laoma528/awesome-zhuiju-free
 - Gitee 镜像：https://gitee.com/laoma2053/awesome-zhuiju-free
 
 项目会持续更新资源，也欢迎你反馈失效链接或推荐更好用的免费资源。

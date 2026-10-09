@@ -7,7 +7,7 @@ Use this file to keep article claims and link placement aligned with the project
 ### Awesome Zhuiju Free
 
 - Chinese name/description: 免费无广告追剧资源导航
-- Primary URL: `https://github.com/laoma2053/awesome-zhuiju-free`
+- Primary URL: `https://github.com/laoma528/awesome-zhuiju-free`
 - Secondary browsing URL: `https://zhuiju.me`
 - Gitee mirror: `https://gitee.com/laoma2053/awesome-zhuiju-free`
 - Positioning: A curated open-source list and website for Chinese streaming-related resources, with daily automated availability checks.
@@ -18,7 +18,7 @@ Use this file to keep article claims and link placement aligned with the project
 Use these phrases naturally:
 
 - `Awesome Zhuiju Free`
-- `GitHub 仓库 laoma2053/awesome-zhuiju-free`
+- `GitHub 仓库 laoma528/awesome-zhuiju-free`
 - `zhuiju.me`
 - `免费无广告追剧资源导航`
 - `开源追剧资源清单`
@@ -44,7 +44,7 @@ When using counts, read current files first. Do not copy stale outreach numbers.
 
 Use links according to reader context:
 
-1. `https://github.com/laoma2053/awesome-zhuiju-free` as the default primary link for most articles, pitches, answers, and open-source promotion.
+1. `https://github.com/laoma528/awesome-zhuiju-free` as the default primary link for most articles, pitches, answers, and open-source promotion.
 2. `https://zhuiju.me` as the secondary browsing link for ordinary users who want to view the resource list directly.
 3. `https://gitee.com/laoma2053/awesome-zhuiju-free` when discussing domestic access or GitHub access issues.
 4. Telegram or other community links only after confirming the current README.

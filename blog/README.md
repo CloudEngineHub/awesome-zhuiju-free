@@ -109,7 +109,7 @@ Markdown 文件第一行必须是 `# 标题`。Typecho 会根据后台的 XML-RP
 ## 常用项目入口
 
 - 网站：https://zhuiju.me
-- GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+- GitHub：https://github.com/laoma528/awesome-zhuiju-free
 - Gitee 镜像：https://gitee.com/laoma2053/awesome-zhuiju-free
-- 推荐新资源：https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml
-- 报告失效：https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml
+- 推荐新资源：https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml
+- 报告失效：https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml

@@ -12,8 +12,8 @@
   - 位置：大徽章行，排第一位
   - 代码：
     ```markdown
-    <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers">
-      <img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=for-the-badge&color=yellow" alt="GitHub Stars">
+    <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers">
+      <img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=for-the-badge&color=yellow" alt="GitHub Stars">
     </a>
     ```
   - 效果：Stars 数字实时展示，是最强社会证明
@@ -90,7 +90,7 @@
   - 位置：大徽章行下方，单独一行或与其他工具按钮并排
   - 代码：
     ```markdown
-    [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/laoma2053/awesome-zhuiju-free)
+    [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/laoma528/awesome-zhuiju-free)
     ```
   - 说明：DeepWiki 免费，自动索引仓库内容，让访客可以直接对话式查询资源
 

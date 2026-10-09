@@ -39,7 +39,7 @@
 - 现在 README 的信息量够不够清晰？有没有看不懂的地方？
 - 有没有人愿意一起维护，特别是对某个分类比较熟悉的？
 
-GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub：https://github.com/laoma528/awesome-zhuiju-free
 网站：https://zhuiju.me
 ```
 
@@ -67,7 +67,7 @@ GitHub：https://github.com/laoma2053/awesome-zhuiju-free
 
 [62] 个资源，持续更新中。完全免费，无广告，开源。
 
-GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub：https://github.com/laoma528/awesome-zhuiju-free
 国内直接访问：https://zhuiju.me
 
 如果有好用的资源欢迎在 GitHub 提 Issue 补充，有维护者会审核。

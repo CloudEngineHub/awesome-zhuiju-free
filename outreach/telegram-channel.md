@@ -30,7 +30,7 @@
    ```
    免费无广告追剧资源导航，每日自动检测可用性。
    
-   GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+   GitHub：https://github.com/laoma528/awesome-zhuiju-free
    网站：https://zhuiju.me
    
    订阅本频道获取资源更新播报。
@@ -93,7 +93,7 @@ README 的导航链接行加入 Telegram 链接：
             
             检测时间：${{ env.TODAY }}（北京时间）
             
-            详细结果见 README 或 [availability.json](https://github.com/laoma2053/awesome-zhuiju-free/blob/main/reports/availability.json)
+            详细结果见 README 或 [availability.json](https://github.com/laoma528/awesome-zhuiju-free/blob/main/reports/availability.json)
             
             [👉 查看完整资源列表](https://zhuiju.me)
 ```

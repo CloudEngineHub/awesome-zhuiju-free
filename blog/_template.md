@@ -23,7 +23,7 @@
 开始前，建议先打开下面两个入口：
 
 - 网站：https://zhuiju.me
-- GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+- GitHub：https://github.com/laoma528/awesome-zhuiju-free
 
 如果 GitHub 访问不稳定，可以使用 Gitee 镜像：
 
@@ -57,18 +57,18 @@
 
 可以到 GitHub 提交失效反馈：
 
-https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml
+https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml
 
 ### 有好用资源可以推荐吗？
 
 可以提交新资源推荐：
 
-https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml
+https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml
 
 ## 最后
 
 Awesome Zhuiju Free 会持续维护免费、干净的追剧资源，并通过自动检测尽量减少「打开才发现挂了」的情况。
 
 - 网站：https://zhuiju.me
-- GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+- GitHub：https://github.com/laoma528/awesome-zhuiju-free
 - Gitee：https://gitee.com/laoma2053/awesome-zhuiju-free

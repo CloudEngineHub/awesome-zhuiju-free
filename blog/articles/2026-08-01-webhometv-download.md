@@ -222,4 +222,4 @@ WebHomeTV 适合想要更强扩展能力的影视TV用户。它不是单纯的 F
 
 更多追剧资源，关注**Awesome Zhuiju Free**
 
-GitHub地址：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub地址：https://github.com/laoma528/awesome-zhuiju-free

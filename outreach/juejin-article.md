@@ -42,7 +42,7 @@ C. 复盘：一个 GitHub 追剧资源项目是怎么设计和运营的
 
 **Awesome Zhuiju Free**：一个在 GitHub 上公开维护的免费无广告追剧资源清单，核心功能是每天自动检测所有收录资源的可用性。
 
-项目地址：https://github.com/laoma2053/awesome-zhuiju-free
+项目地址：https://github.com/laoma528/awesome-zhuiju-free
 
 它的重点不是"再建一个资源站"，而是把资源清单、检测结果、数据结构和贡献流程都放到 GitHub 上公开维护。
 
@@ -189,7 +189,7 @@ Star 增长是脉冲式的，不是线性的。一次好的传播能带来几百
 
 如果你也是追剧遇到过这类问题，这个项目可能对你有用：
 
-- GitHub 仓库：https://github.com/laoma2053/awesome-zhuiju-free
+- GitHub 仓库：https://github.com/laoma528/awesome-zhuiju-free
 - 在线浏览页面：https://zhuiju.me
 
 如果你有好用的免费无广告资源，欢迎在 GitHub 提 Issue 推荐，有维护者会审核。

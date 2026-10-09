@@ -79,7 +79,7 @@ cloud-drive-search  subtitles  media-player  no-ads
 
 ## 操作步骤
 
-1. 打开 https://github.com/laoma2053/awesome-zhuiju-free
+1. 打开 https://github.com/laoma528/awesome-zhuiju-free
 2. 点击右上角"About"旁边的 ⚙️ 齿轮图标
 3. 修改 Description 为建议内容
 4. 在 Topics 栏逐一删除和添加

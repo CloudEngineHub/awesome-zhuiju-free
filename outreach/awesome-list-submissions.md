@@ -103,7 +103,7 @@ A manually curated list of free, ad-free Chinese streaming resources. Every reso
 - 1000+ GitHub Stars in the first week
 
 ### Links
-- GitHub: https://github.com/laoma2053/awesome-zhuiju-free
+- GitHub: https://github.com/laoma528/awesome-zhuiju-free
 - Website: https://zhuiju.me
 - Gitee (China mirror): https://gitee.com/laoma2053/awesome-zhuiju-free
 ```
@@ -121,7 +121,7 @@ A manually curated list of free, ad-free Chinese streaming resources. Every reso
 ```
 
 ```markdown
-项目地址：https://github.com/laoma2053/awesome-zhuiju-free
+项目地址：https://github.com/laoma528/awesome-zhuiju-free
 
 在线体验：https://zhuiju.me
 

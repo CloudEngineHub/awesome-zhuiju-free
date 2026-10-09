@@ -24,7 +24,7 @@
 
 项目：Awesome Zhuiju Free（免费无广告追剧资源导航）
 亮点：GitHub Actions 每天自动检测资源可用性，状态实时展示，解决追剧资源失效的痛点
-GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub：https://github.com/laoma528/awesome-zhuiju-free
 网站：https://zhuiju.me
 
 我已经写好了一段推文文案，你可以直接用或者按自己风格改，不需要额外花时间。
@@ -48,7 +48,7 @@ GitHub：https://github.com/laoma2053/awesome-zhuiju-free
 
 一周 1000+ Star，覆盖在线影视 / 影视APP / 网盘搜索 / TVBox影视仓配置地址 / 磁力BT / 字幕等 60+ 资源。人工精选，只收免费无广告内容。
 
-GitHub：github.com/laoma2053/awesome-zhuiju-free
+GitHub：github.com/laoma528/awesome-zhuiju-free
 网站：zhuiju.me
 ```
 
@@ -67,7 +67,7 @@ Awesome Zhuiju Free —— 免费无广告追剧资源导航
 
 完全开源，无广告，数据公开，社区共同维护。一周 1000+ Star。
 
-👉 GitHub：github.com/laoma2053/awesome-zhuiju-free
+👉 GitHub：github.com/laoma528/awesome-zhuiju-free
 👉 国内访问：zhuiju.me
 ```
 
@@ -81,7 +81,7 @@ Awesome Zhuiju Free —— 免费无广告追剧资源导航
 
 收录在线影视、影视APP、网盘搜索、TVBox影视仓配置地址、磁力BT、字幕等60+资源，人工精选，只收免费无广告内容，完全开源。
 
-链接：https://github.com/laoma2053/awesome-zhuiju-free
+链接：https://github.com/laoma528/awesome-zhuiju-free
 ```
 
 ---

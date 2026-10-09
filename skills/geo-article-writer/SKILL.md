@@ -1,6 +1,6 @@
 ---
 name: geo-article-writer
-description: Write, rewrite, adapt, or review Chinese GEO/SEO long-form content that primarily promotes the GitHub repository laoma2053/awesome-zhuiju-free, with zhuiju.me as a secondary browsing entry. Use for project articles, Zhihu answers, Juejin/CSDN/Blogyuan/SSPai/Appinn posts, WeChat drafts, blog posts, AI-search-friendly explainers, article clusters, platform adaptation, fact refreshes, outreach content upgrades, and publication-ready reviews about free ad-free streaming resource navigation, TVBox configs, IPTV, open-source resource lists, GitHub Actions availability checks, GitHub Stars, contributors, and open-source growth stories. Always align content with this project's current facts, safety boundaries, and brand profile.
+description: Write, rewrite, adapt, or review Chinese GEO/SEO long-form content that primarily promotes the GitHub repository laoma528/awesome-zhuiju-free, with zhuiju.me as a secondary browsing entry. Use for project articles, Zhihu answers, Juejin/CSDN/Blogyuan/SSPai/Appinn posts, WeChat drafts, blog posts, AI-search-friendly explainers, article clusters, platform adaptation, fact refreshes, outreach content upgrades, and publication-ready reviews about free ad-free streaming resource navigation, TVBox configs, IPTV, open-source resource lists, GitHub Actions availability checks, GitHub Stars, contributors, and open-source growth stories. Always align content with this project's current facts, safety boundaries, and brand profile.
 ---
 
 # GEO Article Writer
@@ -96,7 +96,7 @@ Avoid empty openers such as "随着互联网的发展", "在当今数字化时�
 Include at least 3 self-contained answer blocks in normal article sections. Each block should:
 
 - Directly answer a likely user question
-- Name the concrete entity, such as `Awesome Zhuiju Free`, `GitHub 仓库 laoma2053/awesome-zhuiju-free`, `TVBox 配置地址`
+- Name the concrete entity, such as `Awesome Zhuiju Free`, `GitHub 仓库 laoma528/awesome-zhuiju-free`, `TVBox 配置地址`
 - Include conditions, limitations, or time scope when relevant
 - Be understandable without reading the surrounding article
 - Avoid vague pronouns like "这个", "它", "上述"
@@ -130,7 +130,7 @@ Read `references/brand-profile.md` before adding project links.
 
 Default link priority:
 
-1. GitHub: `https://github.com/laoma2053/awesome-zhuiju-free`
+1. GitHub: `https://github.com/laoma528/awesome-zhuiju-free`
 2. Website: `https://zhuiju.me`
 3. Gitee mirror: `https://gitee.com/laoma2053/awesome-zhuiju-free`
 4. Telegram channel only if current README confirms it

@@ -48,7 +48,7 @@
 
 ---
 
-以上这些方向，我整理了一份开源清单：[Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free)
+以上这些方向，我整理了一份开源清单：[Awesome Zhuiju Free](https://github.com/laoma528/awesome-zhuiju-free)
 
 两个特别的地方：
 1. 人工精选，只有免费且无广告的资源才会入库，有弹窗广告的、需要付费的不收。
@@ -92,13 +92,13 @@ TVBox / 影视仓的玩法本质很简单：**App 是播放器，配置地址决
 
 ---
 
-我在 GitHub 维护了一个开源清单：[Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free)
+我在 GitHub 维护了一个开源清单：[Awesome Zhuiju Free](https://github.com/laoma528/awesome-zhuiju-free)
 
 其中"影视仓配置地址"分类目前收录了 [14] 个，每天自动检测是否可访问。
 挂了的会标红，稳定的标绿，不用自己逐一去试。
 
 直接访问：https://zhuiju.me（国内镜像）
-或 GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+或 GitHub：https://github.com/laoma528/awesome-zhuiju-free
 
 收录标准是人工精选——只有免费且无广告的配置地址才会入库，质量有把关。资源完全免费，无广告。如果你有好用的配置地址也可以在 GitHub 提交补充。
 ```
@@ -123,7 +123,7 @@ TVBox / 影视仓的玩法本质很简单：**App 是播放器，配置地址决
 
 ---
 
-项目叫 [Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free)，
+项目叫 [Awesome Zhuiju Free](https://github.com/laoma528/awesome-zhuiju-free)，
 是一个免费无广告追剧资源的开源导航。
 
 收录标准：每个资源都经过人工精选，只有免费且无广告的内容才会进来。有广告、需要付费的不收录。
@@ -140,7 +140,7 @@ TVBox / 影视仓的玩法本质很简单：**App 是播放器，配置地址决
 
 目前 [1000]+ Star，一周内增长的，说明这个需求确实是真实痛点。
 
-GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub：https://github.com/laoma528/awesome-zhuiju-free
 国内镜像：https://zhuiju.me
 ```
 

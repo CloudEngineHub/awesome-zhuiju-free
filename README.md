@@ -25,25 +25,25 @@
   <!-- resource-count:start -->
 <a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-120_个资源-00A98F?style=flat-square" alt="已收录 120 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--10-00B4D8?style=flat-square" alt="检测时间 2026-10-10" height="24"></a>
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--10-00B4D8?style=flat-square" alt="检测时间 2026-10-10" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma528/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
-  <a href="https://deepwiki.com/laoma2053/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" height="24"></a>
+  <a href="https://deepwiki.com/laoma528/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" height="24"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free"><img src="https://img.shields.io/badge/Awesome-追剧资源-FC60A8?style=flat-square" alt="Awesome 追剧资源" height="24"></a>
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml/badge.svg?branch=main" alt="Check availability" height="24"></a>
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/validate-data.yml"><img src="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/validate-data.yml/badge.svg?branch=main" alt="Validate data" height="24"></a>
-  <a href="https://hits.sh/github.com/laoma2053/awesome-zhuiju-free/"><img src="https://hits.sh/github.com/laoma2053/awesome-zhuiju-free.svg?style=flat-square&label=Visits&color=0A66C2" alt="Visits" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free"><img src="https://img.shields.io/badge/Awesome-追剧资源-FC60A8?style=flat-square" alt="Awesome 追剧资源" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml/badge.svg?branch=main" alt="Check availability" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/validate-data.yml"><img src="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/validate-data.yml/badge.svg?branch=main" alt="Validate data" height="24"></a>
+  <a href="https://hits.sh/github.com/laoma528/awesome-zhuiju-free/"><img src="https://hits.sh/github.com/laoma528/awesome-zhuiju-free.svg?style=flat-square&label=Visits&color=0A66C2" alt="Visits" height="24"></a>
 </p>
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily?language=JavaScript" alt="laoma2053%2Fawesome-zhuiju-free | Trendshift" width="250" height="55"></a>
+  <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily?language=JavaScript" alt="laoma528%2Fawesome-zhuiju-free | Trendshift" width="250" height="55"></a>
 </p>
 
-**[查看资源](#精选资源)** · **[提交资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)**
+**[查看资源](#精选资源)** · **[提交资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml)**
 
 觉得有用？点个 ⭐ Star 支持一下，帮助更多追剧党发现这里。
 
@@ -83,7 +83,7 @@
 
 状态只判断主页是否响应，不替代完整体验评价。完整检测结果见 [`reports/availability.json`](reports/availability.json)。
 
-检测任务每天北京时间 09:00 左右运行；新增或修改资源后也会自动运行。你也可以在 [Check availability](https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml) 页面手动触发。
+检测任务每天北京时间 09:00 左右运行；新增或修改资源后也会自动运行。你也可以在 [Check availability](https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml) 页面手动触发。
 
 </details>
 
@@ -279,7 +279,7 @@
 
 ### 会员拼团
 
-_等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)。_
+_等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml)。_
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
@@ -377,9 +377,9 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 | 我想要 | 从这里开始 |
 | --- | --- |
-| 推荐一个新资源 | [创建资源推荐](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml) |
-| 报告失效、风险或评分变化 | [创建问题报告](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml) |
-| 请求修改或移除收录 | [提交权利人请求](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) |
+| 推荐一个新资源 | [创建资源推荐](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) |
+| 报告失效、风险或评分变化 | [创建问题报告](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml) |
+| 请求修改或移除收录 | [提交权利人请求](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) |
 | 直接维护结构化数据 | 阅读 [贡献指南](CONTRIBUTING.md) 与 [数据字段说明](resources/README.md) |
 | 管理 Issue、候选资源和自动更新 | 阅读 [管理员手册](MAINTAINERS.md) |
 
@@ -473,7 +473,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 本项目仅提供资源索引、体验记录与风险提示，不对第三方网站的合法性、可用性或安全性作保证。访问第三方网站前，请遵守所在地法律、内容许可和服务条款，并自行判断风险。
 
-如果你是权利人，认为某条收录不当，请通过 [权利人请求模板](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) 联系。项目会公开记录请求与处理结果，但不会公开不必要的个人信息。
+如果你是权利人，认为某条收录不当，请通过 [权利人请求模板](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=rights-holder-request.yml) 联系。项目会公开记录请求与处理结果，但不会公开不必要的个人信息。
 
 ## 开源协议
 
@@ -485,11 +485,11 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 ## 项目数据
 
-<a href="https://www.star-history.com/?repos=laoma2053%2Fawesome-zhuiju-free&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=laoma528%2Fawesome-zhuiju-free&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&theme=dark&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=laoma528/awesome-zhuiju-free&type=date&theme=dark&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=laoma528/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=laoma528/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
  </picture>
 </a>
 
@@ -503,8 +503,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 如果这个项目对你有帮助，欢迎给我们一个 ⭐ Star！
 
-**[查看资源](#精选资源)** · **[推荐资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)**
+**[查看资源](#精选资源)** · **[推荐资源](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml)**
 
-Built with ❤️ by [laoma2053](https://github.com/laoma2053)
+Built with ❤️ by [laoma528](https://github.com/laoma528)
 
 </div>

@@ -31,7 +31,7 @@ Awesome Zhuiju Free 接受站长自荐，也欢迎用户推荐自己用过的影
 
 有 GitHub 账号也可以使用项目的推荐表单：
 
-[一键跳转 GitHub 提交](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)
+[一键跳转 GitHub 提交](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml)
 
 ## 提交信息模板
 
@@ -54,4 +54,4 @@ Icon 地址（选填）：
 评论提交后如果没有立即显示，通常是进入了审核队列，不必重复留言。审核通过后，网站会加入公开列表；后续如果长期无法访问或不再符合标准，可能调整排序或下架。
 
 - 在线浏览：https://zhuiju.me
-- 项目主页：https://github.com/laoma2053/awesome-zhuiju-free
+- 项目主页：https://github.com/laoma528/awesome-zhuiju-free

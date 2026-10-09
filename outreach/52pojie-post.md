@@ -60,7 +60,7 @@
 
 【访问地址】
 
-GitHub（推荐主入口）：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub（推荐主入口）：https://github.com/laoma528/awesome-zhuiju-free
 在线浏览页面：https://zhuiju.me
 
 ━━━━━━━━━━━━━━━━━━━━━━━

@@ -215,4 +215,4 @@ PeekPro 本身是播放器和聚合工具，配置接口里的内容来自第三
 
 更多追剧资源，关注**Awesome Zhuiju Free**
 
-GitHub地址：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub地址：https://github.com/laoma528/awesome-zhuiju-free

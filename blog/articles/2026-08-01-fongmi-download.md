@@ -182,4 +182,4 @@ FongMi 蜂蜜版适合想在 Android TV、电视盒子、手机或平板上使�
 
 更多追剧资源，关注**Awesome Zhuiju Free**
 
-GitHub地址：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub地址：https://github.com/laoma528/awesome-zhuiju-free

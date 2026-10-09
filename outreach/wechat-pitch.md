@@ -31,7 +31,7 @@
 
 我已经准备好了一篇文章草稿，可以直接使用或修改，也欢迎按你们的风格重写。
 
-GitHub：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub：https://github.com/laoma528/awesome-zhuiju-free
 网站：https://zhuiju.me
 
 如果感兴趣，可以回复我发草稿给你。谢谢！
@@ -89,7 +89,7 @@ GitHub：https://github.com/laoma2053/awesome-zhuiju-free
 不需要注册，不需要安装：
 
 - 直接访问：https://zhuiju.me
-- GitHub 项目：github.com/laoma2053/awesome-zhuiju-free
+- GitHub 项目：github.com/laoma528/awesome-zhuiju-free
 - 国内 Gitee 镜像：gitee.com/laoma2053/awesome-zhuiju-free
 
 完全免费，无广告，开源，社区维护。

@@ -21,7 +21,7 @@ Awesome Zhuiju Free（追剧么指南）想解决的就是这件小事：先帮�
 所有整理结果都可以免费查看，没有注册门槛，也不会为了查看链接强制你看广告。
 
 - 普通用户可以打开 [追剧么指南](https://zhuiju.me) 直接浏览。
-- 想查看完整数据、提交问题或参与维护，可以访问 [GitHub 项目](https://github.com/laoma2053/awesome-zhuiju-free)。
+- 想查看完整数据、提交问题或参与维护，可以访问 [GitHub 项目](https://github.com/laoma528/awesome-zhuiju-free)。
 - GitHub 访问不方便时，也可以查看 [Gitee 镜像](https://gitee.com/laoma2053/awesome-zhuiju-free)。
 
 需要说明的是，页面上的可用性状态只代表自动检测时的网络结果。第三方站点可能临时维护、更换域名，也可能受地区和网络环境影响。如果一个入口打不开，换一个通常比反复刷新更省时间。
@@ -42,9 +42,9 @@ Awesome Zhuiju Free（追剧么指南）想解决的就是这件小事：先帮�
 
 ## 推荐资源与反馈问题
 
-这份清单靠一个人维护不可能面面俱到。如果你发现好用的网站、APP 或开源工具，欢迎通过 [资源推荐表单](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml) 告诉我。
+这份清单靠一个人维护不可能面面俱到。如果你发现好用的网站、APP 或开源工具，欢迎通过 [资源推荐表单](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=resource.yml) 告诉我。
 
-遇到链接失效、描述不准确、风险提示遗漏等问题，可以提交 [问题报告](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)。反馈时最好附上资源名称、链接和实际遇到的情况，这样更容易复核。
+遇到链接失效、描述不准确、风险提示遗漏等问题，可以提交 [问题报告](https://github.com/laoma528/awesome-zhuiju-free/issues/new?template=broken-link.yml)。反馈时最好附上资源名称、链接和实际遇到的情况，这样更容易复核。
 
 ## 联系我
 
@@ -62,4 +62,4 @@ Awesome Zhuiju Free 和追剧么指南只提供资源信息导航、体验记录
 ## 官方入口
 
 - 追剧么指南网站：[https://zhuiju.me](https://zhuiju.me)
-- Awesome Zhuiju Free GitHub 仓库：[https://github.com/laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
+- Awesome Zhuiju Free GitHub 仓库：[https://github.com/laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)

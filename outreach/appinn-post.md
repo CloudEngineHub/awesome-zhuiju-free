@@ -49,7 +49,7 @@ Awesome Zhuiju Free 解决的就是这个问题：
 
 不需要注册、不需要安装。推荐先看 GitHub 仓库，完整资源清单、每日检测状态、数据文件和贡献入口都在那里：
 
-- GitHub 项目主页：https://github.com/laoma2053/awesome-zhuiju-free
+- GitHub 项目主页：https://github.com/laoma528/awesome-zhuiju-free
 - 在线浏览页面：https://zhuiju.me
 
 ### 状态说明
@@ -72,7 +72,7 @@ Awesome Zhuiju Free 解决的就是这个问题：
 | 标签 | 影视、资源导航、开源、免费 |
 | 平台 | Web |
 | 价格 | 免费 |
-| 官网 / 项目主页 | https://github.com/laoma2053/awesome-zhuiju-free |
+| 官网 / 项目主页 | https://github.com/laoma528/awesome-zhuiju-free |
 | 在线浏览 | https://zhuiju.me |
 
 ---

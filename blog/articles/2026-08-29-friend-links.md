@@ -66,5 +66,5 @@
 上线后如果更换域名、网站名称或友链页面，请及时告知，避免复查时被当作失效链接处理。
 
 - 追剧么指南：[https://zhuiju.me](https://zhuiju.me)
-- GitHub 仓库：[https://github.com/laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
+- GitHub 仓库：[https://github.com/laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
 - 影视网站投稿：[https://b.zhuiju.me/shoulu.html](https://b.zhuiju.me/shoulu.html)

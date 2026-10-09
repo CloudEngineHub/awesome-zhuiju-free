@@ -262,4 +262,4 @@ OK影视适合想要更多功能的 Box 接口用户。它和蜂蜜版同属免�
 
 更多追剧资源，关注**Awesome Zhuiju Free**
 
-GitHub地址：https://github.com/laoma2053/awesome-zhuiju-free
+GitHub地址：https://github.com/laoma528/awesome-zhuiju-free
