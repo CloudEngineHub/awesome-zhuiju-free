@@ -5382,6 +5382,48 @@
         "added_at": "2026-10-10"
       },
       "featured": true
+    },
+    {
+      "id": "iptv-cqshushu-com-31",
+      "name": "IPTV神器Pro",
+      "url": "https://iptv.cqshushu.com/",
+      "category": "subscription",
+      "summary": "by cqshushu | 公众号 医工学习日志 | 提供免费IPTV直播源、酒店源、组播源",
+      "summary_short": "by cqshushu | 公众号 医工学习日志 | 提供免费IPTV直播源、酒",
+      "tags": [
+        "IPTV 订阅源"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-10-10",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-9-15，中国大陆。 提交者风险说明：无"
+      },
+      "source": {
+        "submitted_by": "@goodsand",
+        "added_at": "2026-10-10"
+      },
+      "featured": true
     }
   ]
 }

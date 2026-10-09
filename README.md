@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-118_个资源-00A98F?style=flat-square" alt="已收录 118 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-119_个资源-00A98F?style=flat-square" alt="已收录 119 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--10-00B4D8?style=flat-square" alt="检测时间 2026-10-10" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -71,7 +71,7 @@
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-6F42C1?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-7-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-15-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
-  <a href="#直播源"><img src="https://img.shields.io/badge/直播源-1-E91E63?style=flat-square" alt="直播源"></a>
+  <a href="#直播源"><img src="https://img.shields.io/badge/直播源-2-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-15-181717?style=flat-square" alt="开源项目"></a>
 </p>
@@ -110,7 +110,7 @@
 | [好好看](<https://www.hhkan2.com/>) | 4K高清Netflix新剧（可访问需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:haohaokan -->🔴&#8288;无法&#8288;访问<!-- /availability:haohaokan --> | <!-- availability-date:haohaokan -->2026&#8209;10&#8209;10<!-- /availability-date:haohaokan --> |
 | [蛋蛋魔法](<https://ddmf.net>) | 国内外热播剧，有福利伦理片（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ddmf -->🟡&#8288;访问&#8288;受限<!-- /availability:ddmf --> | <!-- availability-date:ddmf -->2026&#8209;10&#8209;10<!-- /availability-date:ddmf --> |
 | [青空次元](<https://www.sorani.net>) | 网友称最夯动漫在线站 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sorani -->🟢&#8288;可&#8288;访问<!-- /availability:sorani --> | <!-- availability-date:sorani -->2026&#8209;10&#8209;10<!-- /availability-date:sorani --> |
-| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟢&#8288;可&#8288;访问<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;10&#8209;10<!-- /availability-date:appmovie --> |
+| [APP影院](<https://www.appmovie.art>) | 国内外热播剧，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:appmovie -->🟡&#8288;访问&#8288;受限<!-- /availability:appmovie --> | <!-- availability-date:appmovie -->2026&#8209;10&#8209;10<!-- /availability-date:appmovie --> |
 | [Auete影视](<https://www.aeete.com>) | 蓝光超清精品影视，发布页auete.pro | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:auete-video -->🟢&#8288;可&#8288;访问<!-- /availability:auete-video --> | <!-- availability-date:auete-video -->2026&#8209;10&#8209;10<!-- /availability-date:auete-video --> |
 | [电影人生](<https://dyrs.tv>) | 高清电影在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dyrs -->🟢&#8288;可&#8288;访问<!-- /availability:dyrs --> | <!-- availability-date:dyrs -->2026&#8209;10&#8209;10<!-- /availability-date:dyrs --> |
 | [黑夜影院](<https://darkvod.com>) | 综合影视/资源多/无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:darkvod -->🔴&#8288;无法&#8288;访问<!-- /availability:darkvod --> | <!-- availability-date:darkvod -->2026&#8209;10&#8209;10<!-- /availability-date:darkvod --> |
@@ -205,7 +205,7 @@
 | [找电影时光](<https://www.ldysg.win/>) | 影视高清晰无水印下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ldysg -->🟢&#8288;可&#8288;访问<!-- /availability:ldysg --> | <!-- availability-date:ldysg -->2026&#8209;10&#8209;10<!-- /availability-date:ldysg --> |
 | [磁力帝](<https://www.cld123.com>) | 地址发布页cldi.top | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:cilidi -->🟡&#8288;访问&#8288;受限<!-- /availability:cilidi --> | <!-- availability-date:cilidi -->2026&#8209;10&#8209;10<!-- /availability-date:cilidi --> |
 | [SeedHub](<https://sidhub.cc/>) | 影视&动漫分享，页面纯净、无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sidhub-cc-7 -->🟡&#8288;访问&#8288;受限<!-- /availability:sidhub-cc-7 --> | <!-- availability-date:sidhub-cc-7 -->2026&#8209;10&#8209;10<!-- /availability-date:sidhub-cc-7 --> |
-| [POMO](<https://pomo.mom/>) | 4K原盘免费下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:4k-yuanpan -->🔴&#8288;无法&#8288;访问<!-- /availability:4k-yuanpan --> | <!-- availability-date:4k-yuanpan -->2026&#8209;10&#8209;10<!-- /availability-date:4k-yuanpan --> |
+| [POMO](<https://pomo.mom/>) | 4K原盘免费下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:4k-yuanpan -->🟢&#8288;可&#8288;访问<!-- /availability:4k-yuanpan --> | <!-- availability-date:4k-yuanpan -->2026&#8209;10&#8209;10<!-- /availability-date:4k-yuanpan --> |
 | [BT世界网](<https://www.btsj6.com>) | 高清电影美剧BT种子迅雷下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:btshijiewang -->🟢&#8288;可&#8288;访问<!-- /availability:btshijiewang --> | <!-- availability-date:btshijiewang -->2026&#8209;10&#8209;10<!-- /availability-date:btshijiewang --> |
 | [BT影视](<https://www.btbtla.com>) | 4k高清电影BT下载 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:bt-yingshi -->🟢&#8288;可&#8288;访问<!-- /availability:bt-yingshi --> | <!-- availability-date:bt-yingshi -->2026&#8209;10&#8209;10<!-- /availability-date:bt-yingshi --> |
 | [美剧粉](<https://www.mjf2020.com>) | 全部高清无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:meijufen -->🟢&#8288;可&#8288;访问<!-- /availability:meijufen --> | <!-- availability-date:meijufen -->2026&#8209;10&#8209;10<!-- /availability-date:meijufen --> |
@@ -271,6 +271,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
+| [IPTV神器Pro](<https://iptv.cqshushu.com/>) | by cqshushu \| 公众号 医工学习日志 \| 提供免费IPTV直播源、酒 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:iptv-cqshushu-com-31 -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-cqshushu-com-31 --> | <!-- availability-date:iptv-cqshushu-com-31 -->2026&#8209;10&#8209;10<!-- /availability-date:iptv-cqshushu-com-31 --> |
 | [IPTV-org](<https://github.com/iptv-org/iptv>) | 社区维护的公开 IPTV 频道集合 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:iptv-org -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-org --> | <!-- availability-date:iptv-org -->2026&#8209;10&#8209;10<!-- /availability-date:iptv-org --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
@@ -396,6 +397,11 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
   <tbody>
 <tr>
 <td align="center" width="96">
+  <a href="https://github.com/goodsand"><img src="https://images.weserv.nl/?url=github.com/goodsand.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@goodsand"></a><br>
+  <sub><strong>@goodsand</strong></sub><br>
+  <sub>2 个资源</sub>
+</td>
+<td align="center" width="96">
   <a href="https://github.com/LFNHHHHH"><img src="https://images.weserv.nl/?url=github.com/LFNHHHHH.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@LFNHHHHH"></a><br>
   <sub><strong>@LFNHHHHH</strong></sub><br>
   <sub>1 个资源</sub>
@@ -420,21 +426,16 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
   <sub><strong>@Function21</strong></sub><br>
   <sub>1 个资源</sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
   <a href="https://github.com/xwx6164"><img src="https://images.weserv.nl/?url=github.com/xwx6164.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@xwx6164"></a><br>
   <sub><strong>@xwx6164</strong></sub><br>
   <sub>1 个资源</sub>
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
   <a href="https://github.com/unilei"><img src="https://images.weserv.nl/?url=github.com/unilei.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@unilei"></a><br>
   <sub><strong>@unilei</strong></sub><br>
-  <sub>1 个资源</sub>
-</td>
-<td align="center" width="96">
-  <a href="https://github.com/goodsand"><img src="https://images.weserv.nl/?url=github.com/goodsand.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@goodsand"></a><br>
-  <sub><strong>@goodsand</strong></sub><br>
   <sub>1 个资源</sub>
 </td>
 <td align="center" width="96">
