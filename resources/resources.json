@@ -5346,8 +5346,8 @@
       "name": "洛雪TV",
       "url": "https://tv.lxyy.club/",
       "category": "online_video",
-      "summary": "首选官方采集线路，备选4K无广告线路及超清自适应线路;也支持自由切换多个采集站，并自动过滤插播广告、跑马灯广告。另提供网盘资源、影视解析、电视频道点播等多种观看方式。",
-      "summary_short": "首选官方采集线路，备选4K无广告线路及超清自适应线路;也支持自由切换多个采集站，",
+      "summary": "4K无广告，@anyongki贡献",
+      "summary_short": "4K无广告，@anyongki贡献",
       "tags": [
         "在线影视"
       ],
@@ -5359,11 +5359,11 @@
         ]
       },
       "scores": {
-        "more": 4,
-        "speed": 4,
-        "clean": 4,
-        "stable": 4,
-        "ease": 4
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
       },
       "risks": {
         "copyright": "high",
@@ -5381,7 +5381,8 @@
         "submitted_by": "@anyongki",
         "added_at": "2026-10-10"
       },
-      "featured": true
+      "featured": true,
+      "featured_order": 1
     },
     {
       "id": "iptv-cqshushu-com-31",
@@ -5430,8 +5431,8 @@
       "name": "西瓜影视",
       "url": "https://www.kanmovie.com/",
       "category": "online_video",
-      "summary": "影视资源齐全，自己一直在看目前没有遇到搜不到的各大平台的会员影视资源",
-      "summary_short": "影视资源齐全，自己一直在看目前没有遇到搜不到的各大平台的会员影视资源",
+      "summary": "没有搜不到的资源（@miaodongsu7贡献）",
+      "summary_short": "没有搜不到的资源（@miaodongsu7贡献）",
       "tags": [
         "在线影视"
       ],
@@ -5443,11 +5444,11 @@
         ]
       },
       "scores": {
-        "more": 4,
-        "speed": 4,
-        "clean": 4,
-        "stable": 4,
-        "ease": 4
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
       },
       "risks": {
         "copyright": "high",
@@ -5465,7 +5466,8 @@
         "submitted_by": "@miaodongsu7",
         "added_at": "2026-10-10"
       },
-      "featured": true
+      "featured": true,
+      "featured_order": 2
     }
   ]
 }

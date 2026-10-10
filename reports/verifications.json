@@ -955,6 +955,22 @@
       },
       "result": "removed",
       "notes": "维护者反馈 IFN 已删除；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
+    },
+    {
+      "id": "verify-20261010-luoxue-kanmovie-featured-update",
+      "resource_ids": [
+        "tv-lxyy-club-36",
+        "kanmovie-com-34"
+      ],
+      "checked_at": "2026-10-10",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user requested metadata update"
+      },
+      "result": "pending_review",
+      "notes": "根据维护者要求，洛雪TV和西瓜影视的推荐指数调整为5星，更新精选简介及贡献者链接，并依次置于在线影视精选榜单前两位。评分与描述为维护者提供，未进行新的体验复核。"
     }
   ]
 }

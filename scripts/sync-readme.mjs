@@ -189,6 +189,14 @@ function shortSummary(resource) {
   return String(resource.summary_short ?? resource.summary).replace(/[。.!！]$/, "");
 }
 
+function linkedShortSummary(resource) {
+  const summary = markdownCell(shortSummary(resource));
+  const contributor = String(resource.source?.submitted_by ?? "").match(/^@([A-Za-z0-9-]+)$/)?.[1];
+  return contributor
+    ? summary.replaceAll(`@${contributor}`, markdownLink(`@${contributor}`, `https://github.com/${contributor}`))
+    : summary;
+}
+
 function recommendationStars(resource) {
   const rating = recommendationRating(resource);
   return Array.from({ length: rating }, () => "🌟").join("&#8288;");
@@ -288,7 +296,7 @@ function tableFor(resources, availabilityById, options = {}) {
         : markdownLink(resource.name, resource.link_url ?? resource.url);
       const summaryCell = showUrlInSummary
         ? markdownCode(resource.url)
-        : markdownCell(shortSummary(resource));
+        : linkedShortSummary(resource);
       const thirdCell =
         typeof options.thirdCell === "function"
           ? options.thirdCell(resource)

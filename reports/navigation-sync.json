@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "updated_at": "2026-10-01T08:46:00+08:00",
+  "version": 12,
+  "updated_at": "2026-10-10T08:11:53+08:00",
   "backend": {
     "name": "追剧么指南",
     "url": "https://zhuiju.me/admin#sites",
@@ -57,21 +57,42 @@
     ]
   },
   "sync_rules": {
-    "sort": "分类内按 README 当前展示顺序编号；在线影视原批次为 50–69，2026-08-29 新增五星批次按 README 倒序录入为 49–37，ZIP0 为 36，可可影视为 35，PPnix 为 63；影视APP 为 10；网盘搜索和TVBox接口从 1 开始；磁力BT原批次为 5–14，2026-08-29 新增五星批次为 4–2；字幕组和TVBox软件从 5 开始；开源项目原批次为 10–24，Bangumi 追加为 25",
+    "sort": "分类内按 README 当前展示顺序编号；在线影视当前前四位为洛雪TV 32、西瓜影视 33、PPnix 34、可可影视 35，ZIP0 为 36；影视APP 为 10；网盘搜索和TVBox接口从 1 开始；磁力BT原批次为 5–14，2026-08-29 新增五星批次为 4–2；字幕组和TVBox软件从 5 开始；开源项目原批次为 10–24，Bangumi 追加为 25",
     "internal_url": "留空",
     "external_url": "使用 README 中的资源链接",
     "icon": "点击获取图标；获取失败时保留默认图标",
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-10-01T08:46:00+08:00",
+    "verified_at": "2026-10-10T08:11:53+08:00",
     "verification_method": "通过已登录的 Chrome 后台读取站点总数和页面顺序",
-    "total_site_count": 73,
+    "total_site_count": 74,
     "categories": [
       {
         "name": "在线影视",
-        "site_count": 30,
+        "site_count": 31,
         "sites": [
+      {
+        "name": "洛雪TV",
+        "description": "4K无广告，@anyongki贡献",
+        "external_url": "https://tv.lxyy.club/",
+        "sort": 32,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "西瓜影视",
+        "description": "没有搜不到的资源（@miaodongsu7贡献）",
+        "external_url": "https://www.kanmovie.com/",
+        "sort": 33,
+        "icon_status": "fetched"
+      },
+      {
+        "name": "PPnix",
+        "description": "在线观看电影电视剧",
+        "external_url": "https://www.ppnix.com/cn/",
+        "sort": 34,
+        "icon_status": "fetched"
+      },
       {
         "name": "可可影视",
         "description": "最新Netflix新剧_韩国电影",
@@ -192,13 +213,6 @@
         "icon_status": "default_fetch_failed"
       },
       {
-        "name": "IFN",
-        "description": "为数不多的真4K，部分免费",
-        "external_url": "https://ifn.watch/register?code=8B1EF6",
-        "sort": 54,
-        "icon_status": "fetched"
-      },
-      {
         "name": "蛋蛋魔法",
         "description": "国内外热播剧，有福利伦理片（需梯子）",
         "external_url": "https://ddmf.net",
@@ -245,13 +259,6 @@
         "description": "最新美剧，无广告（需梯子）",
         "external_url": "https://www.netflixgc.com",
         "sort": 61,
-        "icon_status": "fetched"
-      },
-      {
-        "name": "PPnix",
-        "description": "在线观看电影电视剧",
-        "external_url": "https://www.ppnix.com/cn/",
-        "sort": 63,
         "icon_status": "fetched"
       },
       {
@@ -799,6 +806,26 @@
       "details": "根据用户要求，在 zhuiju.me 后台添加 PPnix：简介为“在线观看电影电视剧”，外网地址为 https://www.ppnix.com/cn/，排序为 63，图标获取成功，内网地址留空。后台确认站点总数为 73、在线影视为 30，公开页面已出现该链接；同时按后台实际列表修正过时的 current_state 基线。",
       "added_count": 1,
       "repository_commit": "279d875"
+    },
+    {
+      "id": "2026-10-10-ifn-delete",
+      "performed_by": "codex_via_chrome",
+      "action": "delete",
+      "category": "在线影视",
+      "details": "根据维护者要求，从 zhuiju.me 后台永久删除 IFN。删除后确认站点总数为 72、在线影视为 29，列表中已无 IFN。",
+      "deleted_count": 1,
+      "deleted_sites": [
+        "IFN"
+      ]
+    },
+    {
+      "id": "2026-10-10-luoxue-kanmovie-add",
+      "performed_by": "codex_via_chrome",
+      "action": "add",
+      "category": "在线影视",
+      "details": "按维护者要求，将洛雪TV和西瓜影视加入 zhuiju.me 后台在线影视分类前两位，简介分别为“4K无广告，@anyongki贡献”和“没有搜不到的资源（@miaodongsu7贡献）”，外网地址分别为 https://tv.lxyy.club/ 和 https://www.kanmovie.com/，排序分别为 32 和 33；内网地址留空，图标获取成功。后台确认站点总数为 74、在线影视为 31。复核发现 PPnix 当前排序为 34，并据此更新 current_state。",
+      "added_count": 2,
+      "icon_fetch_failed": []
     }
   ]
 }
