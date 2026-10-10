@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "updated_at": "2026-10-10T08:46:32+08:00",
+  "version": 15,
+  "updated_at": "2026-10-10T08:48:46+08:00",
   "backend": {
     "name": "追剧么指南",
     "url": "https://zhuiju.me/admin#sites",
@@ -70,7 +70,7 @@
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-10-10T08:46:32+08:00",
+    "verified_at": "2026-10-10T08:48:46+08:00",
     "verification_method": "通过已登录的 Chrome 后台读取站点总数和页面顺序",
     "total_site_count": 76,
     "categories": [
@@ -80,14 +80,14 @@
         "sites": [
       {
         "name": "创享影视",
-        "description": "无广告三网高峰秒播@zxaay贡献",
+        "description": "无广告三网高峰秒播（@zxaay贡献）",
         "external_url": "https://ys.cxkjg.cn/",
         "sort": 31,
         "icon_status": "fetched"
       },
       {
         "name": "洛雪TV",
-        "description": "4K无广告，@anyongki贡献",
+        "description": "4K无广告（@anyongki贡献）",
         "external_url": "https://tv.lxyy.club/",
         "sort": 32,
         "icon_status": "fetched"
@@ -868,6 +868,13 @@
       "action": "update",
       "category": "在线影视",
       "details": "根据维护者要求，将创享影视简介改为“无广告三网高峰秒播@zxaay贡献”。后台保存后复核成功，站点总数仍为 76、在线影视为 32。"
+    },
+    {
+      "id": "2026-10-10-chuangxiang-luoxue-description-parentheses",
+      "performed_by": "codex_via_chrome",
+      "action": "update",
+      "category": "在线影视",
+      "details": "根据维护者要求，将创享影视和洛雪TV简介中的贡献者标注改为全角括号格式；后台保存后核对，两条站点记录及排序均未改变。"
     }
   ]
 }
