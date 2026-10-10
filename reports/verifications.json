@@ -1001,6 +1001,21 @@
       },
       "result": "available",
       "notes": "维护者在 Issue #39 回复 ok。提交地址 ys.cxkjg.cn 缺少协议，补全为 https://ys.cxkjg.cn/ 后可打开首页。根据维护者补充要求设为5星，置于在线影视精选最前；播放速度及广告情况未独立验证。"
+    },
+    {
+      "id": "verify-20261010-chuangxiang-description-update",
+      "resource_ids": [
+        "ys-cxkjg-cn-39"
+      ],
+      "checked_at": "2026-10-10",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user requested metadata update"
+      },
+      "result": "pending_review",
+      "notes": "根据维护者要求，创享影视简介改为“无广告三网高峰秒播@zxaay贡献”，精选中的 @zxaay 链接到 GitHub。此条仅记录文案修改，未重新验证播放体验。"
     }
   ]
 }
