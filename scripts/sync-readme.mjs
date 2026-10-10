@@ -569,7 +569,7 @@ const headerBadges = `<p align="center">
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma528/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
-  <a href="https://deepwiki.com/laoma528/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" height="24"></a>
+  <a href="https://deepwiki.com/laoma528/awesome-zhuiju-free"><img src="https://img.shields.io/badge/Ask-DeepWiki-1F6FEB?style=flat-square" alt="Ask DeepWiki" height="24"></a>
 </p>`;
 
 if (!headerBadgesPattern.test(updatedReadme)) {
