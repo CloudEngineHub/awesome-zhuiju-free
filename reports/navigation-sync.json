@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updated_at": "2026-10-10T08:48:46+08:00",
+  "version": 16,
+  "updated_at": "2026-10-10T08:54:10+08:00",
   "backend": {
     "name": "追剧么指南",
     "url": "https://zhuiju.me/admin#sites",
@@ -70,7 +70,7 @@
     "duplicate_check": "操作前同时核对 README、本档案 current_state 和导航后台"
   },
   "current_state": {
-    "verified_at": "2026-10-10T08:48:46+08:00",
+    "verified_at": "2026-10-10T08:54:10+08:00",
     "verification_method": "通过已登录的 Chrome 后台读取站点总数和页面顺序",
     "total_site_count": 76,
     "categories": [
@@ -481,7 +481,7 @@
         "sites": [
           {
             "name": "影视仓",
-            "description": "基于 TVBox 二次开发，魔改版本里知名度最高",
+            "description": "基于 TVBox 二次开发，魔改里知名度最高",
             "external_url": "https://b.zhuiju.me/archives/15/",
             "sort": 5,
             "icon_status": "default_fetch_failed"
@@ -502,7 +502,7 @@
           },
           {
             "name": "WebHomeTV",
-            "description": "基于 FongMi / CatVod 二次开发，增强了8项",
+            "description": "基于 FongMi / CatVod 二次开发，增强8项",
             "external_url": "https://b.zhuiju.me/archives/18/",
             "sort": 8,
             "icon_status": "default_fetch_failed"
@@ -875,6 +875,13 @@
       "action": "update",
       "category": "在线影视",
       "details": "根据维护者要求，将创享影视和洛雪TV简介中的贡献者标注改为全角括号格式；后台保存后核对，两条站点记录及排序均未改变。"
+    },
+    {
+      "id": "2026-10-10-yingshicang-webhometv-description-update",
+      "performed_by": "codex_via_chrome",
+      "action": "update",
+      "category": "TVBox软件",
+      "details": "根据维护者要求，将影视仓简介改为“基于 TVBox 二次开发，魔改里知名度最高”，WebHomeTV 简介改为“基于 FongMi / CatVod 二次开发，增强8项”；后台保存并复核，原排序 5 和 8 保持不变。"
     }
   ]
 }

@@ -1032,6 +1032,22 @@
       },
       "result": "pending_review",
       "notes": "根据维护者要求调整创享影视和洛雪TV的贡献者标注格式，精选中继续链接各自的 GitHub 主页；未重新验证播放体验。"
+    },
+    {
+      "id": "verify-20261010-yingshicang-webhometv-description-update",
+      "resource_ids": [
+        "yingshicang-player",
+        "webhometv-player"
+      ],
+      "checked_at": "2026-10-10",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user requested metadata update"
+      },
+      "result": "pending_review",
+      "notes": "根据维护者要求修改 TVBox/影视仓空壳分类中的影视仓和 WebHomeTV 简介；仅调整文案，未重新验证软件功能。"
     }
   ]
 }
