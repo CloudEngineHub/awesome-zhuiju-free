@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-120_个资源-00A98F?style=flat-square" alt="已收录 120 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-121_个资源-00A98F?style=flat-square" alt="已收录 121 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--10-00B4D8?style=flat-square" alt="检测时间 2026-10-10" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -64,7 +64,7 @@
 
 <!-- featured-resources:start -->
 <p align="center">
-  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-46-0A66C2?style=flat-square" alt="在线影视"></a>
+  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-47-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-4-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
@@ -91,6 +91,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
+| [创享影视](<https://ys.cxkjg.cn/>) | 无广告三网高峰秒拖秒播 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ys-cxkjg-cn-39 -->🟢&#8288;可&#8288;访问<!-- /availability:ys-cxkjg-cn-39 --> | <!-- availability-date:ys-cxkjg-cn-39 -->2026&#8209;10&#8209;10<!-- /availability-date:ys-cxkjg-cn-39 --> |
 | [洛雪TV](<https://tv.lxyy.club/>) | 4K无广告，[@anyongki](<https://github.com/anyongki>)贡献 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tv-lxyy-club-36 -->🟢&#8288;可&#8288;访问<!-- /availability:tv-lxyy-club-36 --> | <!-- availability-date:tv-lxyy-club-36 -->2026&#8209;10&#8209;10<!-- /availability-date:tv-lxyy-club-36 --> |
 | [西瓜影视](<https://www.kanmovie.com/>) | 没有搜不到的资源（[@miaodongsu7](<https://github.com/miaodongsu7>)贡献） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kanmovie-com-34 -->🟢&#8288;可&#8288;访问<!-- /availability:kanmovie-com-34 --> | <!-- availability-date:kanmovie-com-34 -->2026&#8209;10&#8209;10<!-- /availability-date:kanmovie-com-34 --> |
 | [可可影视](<https://www.kkys14.com/>) | 最新Netflix新剧（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:103-39-111-180-29 -->🔴&#8288;无法&#8288;访问<!-- /availability:103-39-111-180-29 --> | <!-- availability-date:103-39-111-180-29 -->2026&#8209;10&#8209;10<!-- /availability-date:103-39-111-180-29 --> |
@@ -272,7 +273,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| [IPTV神器Pro](<https://iptv.cqshushu.com/>) | by cqshushu \| 公众号 医工学习日志 \| 提供免费IPTV直播源、酒 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:iptv-cqshushu-com-31 -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-cqshushu-com-31 --> | <!-- availability-date:iptv-cqshushu-com-31 -->2026&#8209;10&#8209;10<!-- /availability-date:iptv-cqshushu-com-31 --> |
+| [IPTV神器Pro](<https://iptv.cqshushu.com/>) | 免费IPTV直播源（[@goodsand](<https://github.com/goodsand>)贡献） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:iptv-cqshushu-com-31 -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-cqshushu-com-31 --> | <!-- availability-date:iptv-cqshushu-com-31 -->2026&#8209;10&#8209;10<!-- /availability-date:iptv-cqshushu-com-31 --> |
 | [IPTV-org](<https://github.com/iptv-org/iptv>) | 社区维护的公开 IPTV 频道集合 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:iptv-org -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-org --> | <!-- availability-date:iptv-org -->2026&#8209;10&#8209;10<!-- /availability-date:iptv-org --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
@@ -452,6 +453,11 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 <td align="center" width="96">
   <a href="https://github.com/miaodongsu7"><img src="https://images.weserv.nl/?url=github.com/miaodongsu7.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@miaodongsu7"></a><br>
   <sub><strong>@miaodongsu7</strong></sub><br>
+  <sub>1 个资源</sub>
+</td>
+<td align="center" width="96">
+  <a href="https://github.com/zxaay"><img src="https://images.weserv.nl/?url=github.com/zxaay.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@zxaay"></a><br>
+  <sub><strong>@zxaay</strong></sub><br>
   <sub>1 个资源</sub>
 </td>
 </tr>

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T00:13:52.183Z",
+  "generated_at": "2026-10-10T00:35:15.626Z",
   "checker": {
-    "environment": "github-actions",
+    "environment": "github-actions+local",
     "timeout_ms": 15000,
     "concurrency": 4,
     "max_attempts": 2,
@@ -1073,6 +1073,17 @@
       "final_url": "https://www.kanmovie.com/",
       "response_ms": 1109,
       "checked_at": "2026-10-10T00:13:51.074Z",
+      "attempts": 1,
+      "error": null
+    },
+    {
+      "resource_id": "ys-cxkjg-cn-39",
+      "url": "https://ys.cxkjg.cn/",
+      "status": "reachable",
+      "http_status": 200,
+      "final_url": "https://ys.cxkjg.cn/",
+      "response_ms": 950,
+      "checked_at": "2026-10-10T00:35:15.626Z",
       "attempts": 1,
       "error": null
     }

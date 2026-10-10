@@ -131,7 +131,10 @@ jobs:
 
             let url;
             try {
-              url = new URL(rawUrl);
+              const urlInput = /^[a-z][a-z\d+.-]*:\/\//i.test(rawUrl)
+                ? rawUrl
+                : `https://${rawUrl}`;
+              url = new URL(urlInput);
             } catch {
               core.setFailed("The submitted homepage URL is invalid.");
               return;
