@@ -177,6 +177,10 @@ if (availabilityData?.generated_at !== null) {
     if (resource?.category === "open_source") {
       continue;
     }
+    // A resource added after this report was generated has not been checked yet.
+    if (Date.parse(resource?.source?.added_at ?? "") > Date.parse(availabilityData.generated_at)) {
+      continue;
+    }
     check(
       availabilityResourceIds.has(resourceId),
       `availability.results: featured resource "${resourceId}" is missing`

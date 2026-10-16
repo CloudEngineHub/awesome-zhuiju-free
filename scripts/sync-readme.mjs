@@ -507,8 +507,11 @@ if (updatedVerificationsText !== verificationsText) {
 const resourcesData = JSON.parse(resourcesText);
 const availabilityData = JSON.parse(await readFile(availabilityPath, "utf8"));
 const featuredResources = resourcesData.resources.filter((resource) => resource.featured);
+const currentUrlsById = new Map(resourcesData.resources.map((resource) => [resource.id, resource.url]));
 const availabilityById = new Map(
-  availabilityData.results.map((result) => [result.resource_id, result])
+  availabilityData.results
+    .filter((result) => currentUrlsById.get(result.resource_id) === result.url)
+    .map((result) => [result.resource_id, result])
 );
 
 const badges = categories
