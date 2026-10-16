@@ -160,18 +160,18 @@
   </thead>
   <tbody>
     <tr>
-      <td nowrap><a href="https://b.zhuiju.me/archives/23/" target="_blank" rel="noopener noreferrer">iOS影视APP</a></td>
+      <td nowrap><a href="https://b.zhuiju.me/p/23" target="_blank" rel="noopener noreferrer">iOS影视APP</a></td>
       <td>各类可用APP合集</td>
       <td align="center">iOS</td>
-      <td align="center" nowrap><!-- availability:ios-yingshi-app -->🟢&#8288;可&#8288;访问<!-- /availability:ios-yingshi-app --></td>
-      <td align="center" nowrap><!-- availability-date:ios-yingshi-app -->2026&#8209;10&#8209;17<!-- /availability-date:ios-yingshi-app --></td>
+      <td align="center" nowrap><!-- availability:ios-yingshi-app -->⚪&#8288;未&#8288;检测<!-- /availability:ios-yingshi-app --></td>
+      <td align="center" nowrap><!-- availability-date:ios-yingshi-app -->未检测<!-- /availability-date:ios-yingshi-app --></td>
     </tr>
     <tr>
-      <td nowrap><a href="https://b.zhuiju.me/archives/4/" target="_blank" rel="noopener noreferrer">SeleneTV</a></td>
+      <td nowrap><a href="https://b.zhuiju.me/p/4" target="_blank" rel="noopener noreferrer">SeleneTV</a></td>
       <td>跨平台 MoonTV 客户端</td>
       <td align="center">Android / iOS / macOS / Windows</td>
-      <td align="center" nowrap><!-- availability:selenetv-app -->🟢&#8288;可&#8288;访问<!-- /availability:selenetv-app --></td>
-      <td align="center" nowrap><!-- availability-date:selenetv-app -->2026&#8209;10&#8209;17<!-- /availability-date:selenetv-app --></td>
+      <td align="center" nowrap><!-- availability:selenetv-app -->⚪&#8288;未&#8288;检测<!-- /availability:selenetv-app --></td>
+      <td align="center" nowrap><!-- availability-date:selenetv-app -->未检测<!-- /availability-date:selenetv-app --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://kazumi.app/download" target="_blank" rel="noopener noreferrer">Kazumi</a></td>
@@ -240,11 +240,11 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| [影视仓](<https://b.zhuiju.me/archives/15/>) | 基于 TVBox 二次开发，魔改里知名度最高 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshicang-player -->🟢&#8288;可&#8288;访问<!-- /availability:yingshicang-player --> | <!-- availability-date:yingshicang-player -->2026&#8209;10&#8209;17<!-- /availability-date:yingshicang-player --> |
-| [FongMi 蜂蜜](<https://b.zhuiju.me/archives/16/>) | 基于 CatVod 二开 ，支持Android TV和手机 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fongmi-fengmi -->🟢&#8288;可&#8288;访问<!-- /availability:fongmi-fengmi --> | <!-- availability-date:fongmi-fengmi -->2026&#8209;10&#8209;17<!-- /availability-date:fongmi-fengmi --> |
-| [OK影视](<https://b.zhuiju.me/archives/17/>) | OK影视版 = FongMi蜂蜜版 + 各种新功能 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ok-yingshi-player -->🟢&#8288;可&#8288;访问<!-- /availability:ok-yingshi-player --> | <!-- availability-date:ok-yingshi-player -->2026&#8209;10&#8209;17<!-- /availability-date:ok-yingshi-player --> |
-| [WebHomeTV](<https://b.zhuiju.me/archives/18/>) | 基于 FongMi / CatVod 二次开发，增强8项 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:webhometv-player -->🟢&#8288;可&#8288;访问<!-- /availability:webhometv-player --> | <!-- availability-date:webhometv-player -->2026&#8209;10&#8209;17<!-- /availability-date:webhometv-player --> |
-| [羊壳 PeekPro](<https://b.zhuiju.me/archives/19/>) | 基于 FongMi 二开，优化主题、弹幕等 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yangke-peekpro -->🟢&#8288;可&#8288;访问<!-- /availability:yangke-peekpro --> | <!-- availability-date:yangke-peekpro -->2026&#8209;10&#8209;17<!-- /availability-date:yangke-peekpro --> |
+| [影视仓](<https://b.zhuiju.me/p/15>) | 基于 TVBox 二次开发，魔改里知名度最高 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshicang-player -->⚪&#8288;未&#8288;检测<!-- /availability:yingshicang-player --> | <!-- availability-date:yingshicang-player -->未检测<!-- /availability-date:yingshicang-player --> |
+| [FongMi 蜂蜜](<https://b.zhuiju.me/p/16>) | 基于 CatVod 二开 ，支持Android TV和手机 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fongmi-fengmi -->⚪&#8288;未&#8288;检测<!-- /availability:fongmi-fengmi --> | <!-- availability-date:fongmi-fengmi -->未检测<!-- /availability-date:fongmi-fengmi --> |
+| [OK影视](<https://b.zhuiju.me/p/17>) | OK影视版 = FongMi蜂蜜版 + 各种新功能 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ok-yingshi-player -->⚪&#8288;未&#8288;检测<!-- /availability:ok-yingshi-player --> | <!-- availability-date:ok-yingshi-player -->未检测<!-- /availability-date:ok-yingshi-player --> |
+| [WebHomeTV](<https://b.zhuiju.me/p/18>) | 基于 FongMi / CatVod 二次开发，增强8项 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:webhometv-player -->⚪&#8288;未&#8288;检测<!-- /availability:webhometv-player --> | <!-- availability-date:webhometv-player -->未检测<!-- /availability-date:webhometv-player --> |
+| [羊壳 PeekPro](<https://b.zhuiju.me/p/19>) | 基于 FongMi 二开，优化主题、弹幕等 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yangke-peekpro -->⚪&#8288;未&#8288;检测<!-- /availability:yangke-peekpro --> | <!-- availability-date:yangke-peekpro -->未检测<!-- /availability-date:yangke-peekpro --> |
 | [Kodi](<https://kodi.tv/>) | 开源、跨平台家庭媒体中心 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kodi -->🟡&#8288;访问&#8288;受限<!-- /availability:kodi --> | <!-- availability-date:kodi -->2026&#8209;10&#8209;17<!-- /availability-date:kodi --> |
 | [FongMi 影视](<https://tv.xn--yhqu5zs87a.top/>) | tvbox二开/带视频源，手机端/平板端已测试 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tv-xn-yhqu5zs87a-top-3 -->🟢&#8288;可&#8288;访问<!-- /availability:tv-xn-yhqu5zs87a-top-3 --> | <!-- availability-date:tv-xn-yhqu5zs87a-top-3 -->2026&#8209;10&#8209;17<!-- /availability-date:tv-xn-yhqu5zs87a-top-3 --> |
 
@@ -252,7 +252,7 @@
 
 ### TVBox/影视仓配置地址
 
-> 不知道怎么配置？点击查看：[接口配置教程（图文版）](https://b.zhuiju.me/archives/5/)
+> 不知道怎么配置？点击查看：[接口配置教程（图文版）](https://b.zhuiju.me/p/5)
 
 | 资源 | 地址 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |

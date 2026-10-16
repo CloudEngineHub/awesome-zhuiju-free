@@ -1403,7 +1403,7 @@
     {
       "id": "selenetv-app",
       "name": "SeleneTV",
-      "url": "https://b.zhuiju.me/archives/4/",
+      "url": "https://b.zhuiju.me/p/4",
       "category": "video_app",
       "summary": "跨平台 MoonTV 客户端。",
       "summary_short": "跨平台 MoonTV 客户端",
@@ -1458,7 +1458,7 @@
     {
       "id": "ios-yingshi-app",
       "name": "iOS影视APP",
-      "url": "https://b.zhuiju.me/archives/23/",
+      "url": "https://b.zhuiju.me/p/23",
       "category": "video_app",
       "summary": "各类可用 iOS 影视 APP 合集。",
       "summary_short": "各类可用APP合集",
@@ -3863,7 +3863,7 @@
     {
       "id": "yangke-peekpro",
       "name": "羊壳 PeekPro",
-      "url": "https://b.zhuiju.me/archives/19/",
+      "url": "https://b.zhuiju.me/p/19",
       "category": "player",
       "summary": "基于 FongMi 二开，优化主题、弹幕等。",
       "summary_short": "基于 FongMi 二开，优化主题、弹幕等",
@@ -3909,7 +3909,7 @@
     {
       "id": "webhometv-player",
       "name": "WebHomeTV",
-      "url": "https://b.zhuiju.me/archives/18/",
+      "url": "https://b.zhuiju.me/p/18",
       "category": "player",
       "summary": "基于 FongMi / CatVod 二次开发，增强8项",
       "summary_short": "基于 FongMi / CatVod 二次开发，增强8项",
@@ -3956,7 +3956,7 @@
     {
       "id": "ok-yingshi-player",
       "name": "OK影视",
-      "url": "https://b.zhuiju.me/archives/17/",
+      "url": "https://b.zhuiju.me/p/17",
       "category": "player",
       "summary": "OK影视版 = FongMi蜂蜜版 + 各种新功能。",
       "summary_short": "OK影视版 = FongMi蜂蜜版 + 各种新功能",
@@ -4002,7 +4002,7 @@
     {
       "id": "fongmi-fengmi",
       "name": "FongMi 蜂蜜",
-      "url": "https://b.zhuiju.me/archives/16/",
+      "url": "https://b.zhuiju.me/p/16",
       "category": "player",
       "summary": "基于 CatVod 二开，支持 Android TV 和手机。",
       "summary_short": "基于 CatVod 二开 ，支持Android TV和手机",
@@ -4050,7 +4050,7 @@
     {
       "id": "yingshicang-player",
       "name": "影视仓",
-      "url": "https://b.zhuiju.me/archives/15/",
+      "url": "https://b.zhuiju.me/p/15",
       "category": "player",
       "summary": "基于 TVBox 二次开发，魔改里知名度最高",
       "summary_short": "基于 TVBox 二次开发，魔改里知名度最高",

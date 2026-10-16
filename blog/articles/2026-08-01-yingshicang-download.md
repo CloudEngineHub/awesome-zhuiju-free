@@ -134,7 +134,7 @@ GitHub 地址：
 
 如果你想看带截图的详细步骤，可以看这篇图文教程：
 
-[**TVBox / 影视仓接口配置教程（图文版）**](https://b.zhuiju.me/archives/5/)
+[**TVBox / 影视仓接口配置教程（图文版）**](https://b.zhuiju.me/p/5)
 
 常见步骤如下：
 
@@ -155,7 +155,7 @@ http://www.饭太硬.net/tv
 
 如果你需要更多可复制的接口地址，可以看这篇持续更新的配置地址列表：
 
-[**TVBox影视仓接口/配置地址，持续更新ing**](https://b.zhuiju.me/archives/3/)
+[**TVBox影视仓接口/配置地址，持续更新ing**](https://b.zhuiju.me/p/3)
 
 ## 常见问题
 

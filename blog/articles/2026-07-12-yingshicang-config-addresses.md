@@ -8,22 +8,22 @@
 
 ## 影视仓配置地址列表
 
-> **更新时间：2026年7月12日**
+> **更新时间：2026年10月17日**
 
 复制时建议整行复制，不要多复制空格。
 
 | 资源 | 配置地址 |
 |---|---|
 | 饭太硬 | `http://www.饭太硬.net/tv` |
-| 摸鱼儿 | `http://摸鱼儿.cc` |
+| [摸鱼儿](https://www.y456y.com) | `http://www.y456y.com` |
 | 王二小 | `http://new.王二小放牛娃.top` |
 | 肥猫 | `http://肥猫.net/` |
 | 潇洒 | `https://cnb.cool/fish2018/xs/-/git/raw/main/api.json` |
 | 小盒子4K | `http://xhztv.top/4k.json` |
+| 创享影视 | `https://ys.cxkjg.cn/api/provide/tvbox` |
 | 老刘备 | `https://raw.liucn.cc/box/m.json` |
 | 小马 | `https://szyyds.cn/tv/x.json` |
 | 小盒子单仓 | `http://xhztv.top/xhz` |
-| VOX | `http://rihou.cc:88/demo.php` |
 | 嗷呜 | `http://itv666.cc/aowu/config.webp` |
 | 小盒子多仓 | `http://xhztv.top/dc` |
 | 拾光多仓 | `http://xmbjm.fh4u.org/dc.txt` |

@@ -360,7 +360,7 @@ ${rows}`;
 
 function categoryIntro(categoryId) {
   if (categoryId === "tvbox_config") {
-    return "> 不知道怎么配置？点击查看：[接口配置教程（图文版）](https://b.zhuiju.me/archives/5/)";
+    return "> 不知道怎么配置？点击查看：[接口配置教程（图文版）](https://b.zhuiju.me/p/5)";
   }
 
   return "";
