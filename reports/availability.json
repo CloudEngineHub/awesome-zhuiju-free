@@ -461,17 +461,6 @@
       "error": null
     },
     {
-      "resource_id": "vox",
-      "url": "http://rihou.cc:88/demo.php",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 20824,
-      "checked_at": "2026-10-16T18:38:36.122Z",
-      "attempts": 2,
-      "error": "fetch failed"
-    },
-    {
       "resource_id": "ao-wu",
       "url": "http://itv666.cc/aowu/config.webp",
       "status": "reachable",
