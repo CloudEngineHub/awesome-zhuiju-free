@@ -363,6 +363,10 @@ function categoryIntro(categoryId) {
     return "> 不知道怎么配置？点击查看：[接口配置教程（图文版）](https://b.zhuiju.me/p/5)";
   }
 
+  if (categoryId === "subscription") {
+    return "> 不知道直播源怎么导入？点击查看：[直播源地址与使用说明](https://b.zhuiju.me/p/26)";
+  }
+
   return "";
 }
 

@@ -278,6 +278,8 @@
 
 ### 直播源
 
+> 不知道直播源怎么导入？点击查看：[直播源地址与使用说明](https://b.zhuiju.me/p/26)
+
 | 资源 | 地址 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
 | VMA | `https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:vma-iptv-source -->🟢&#8288;可&#8288;访问<!-- /availability:vma-iptv-source --> | <!-- availability-date:vma-iptv-source -->2026&#8209;10&#8209;17<!-- /availability-date:vma-iptv-source --> |
