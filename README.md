@@ -280,9 +280,9 @@
 
 | 资源 | 地址 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| VMA直播源 | `https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:vma-iptv-source -->🟢&#8288;可&#8288;访问<!-- /availability:vma-iptv-source --> | <!-- availability-date:vma-iptv-source -->2026&#8209;10&#8209;17<!-- /availability-date:vma-iptv-source --> |
-| 饭太硬直播源 | `http://www.饭太硬.cc/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fan-tai-ying-iptv -->🟢&#8288;可&#8288;访问<!-- /availability:fan-tai-ying-iptv --> | <!-- availability-date:fan-tai-ying-iptv -->2026&#8209;10&#8209;17<!-- /availability-date:fan-tai-ying-iptv --> |
-| 肥猫直播源 | `http://肥猫.net/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao-iptv -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao-iptv --> | <!-- availability-date:fei-mao-iptv -->2026&#8209;10&#8209;17<!-- /availability-date:fei-mao-iptv --> |
+| VMA | `https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:vma-iptv-source -->🟢&#8288;可&#8288;访问<!-- /availability:vma-iptv-source --> | <!-- availability-date:vma-iptv-source -->2026&#8209;10&#8209;17<!-- /availability-date:vma-iptv-source --> |
+| 饭太硬 | `http://www.饭太硬.cc/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fan-tai-ying-iptv -->🟢&#8288;可&#8288;访问<!-- /availability:fan-tai-ying-iptv --> | <!-- availability-date:fan-tai-ying-iptv -->2026&#8209;10&#8209;17<!-- /availability-date:fan-tai-ying-iptv --> |
+| 肥猫 | `http://肥猫.net/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao-iptv -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao-iptv --> | <!-- availability-date:fei-mao-iptv -->2026&#8209;10&#8209;17<!-- /availability-date:fei-mao-iptv --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 

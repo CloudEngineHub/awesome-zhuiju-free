@@ -1725,7 +1725,7 @@
     },
     {
       "id": "vma-iptv-source",
-      "name": "VMA直播源",
+      "name": "VMA",
       "url": "https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt",
       "featured_order": 1,
       "category": "subscription",
@@ -1769,7 +1769,7 @@
     },
     {
       "id": "fan-tai-ying-iptv",
-      "name": "饭太硬直播源",
+      "name": "饭太硬",
       "url": "http://www.饭太硬.cc/tv",
       "featured_order": 2,
       "category": "subscription",
@@ -1813,7 +1813,7 @@
     },
     {
       "id": "fei-mao-iptv",
-      "name": "肥猫直播源",
+      "name": "肥猫",
       "url": "http://肥猫.net/tv",
       "featured_order": 3,
       "category": "subscription",
