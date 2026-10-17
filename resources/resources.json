@@ -2087,6 +2087,52 @@
       "featured_order": 9
     },
     {
+      "id": "ying-cang-tvbox",
+      "name": "影仓",
+      "url": "http://124.71.19.220/c/1",
+      "link_url": "https://124.71.19.220/",
+      "category": "tvbox_config",
+      "summary": "影视仓配置地址。",
+      "summary_short": "影视仓配置地址",
+      "tags": [
+        "影视仓",
+        "配置地址",
+        "TVBox"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-10-17",
+        "method": "manual",
+        "notes": "用户提交的影视仓配置地址，按 4 星收录；配置内容、接口稳定性、版权状态与安全风险需要用户自行判断，并由后续自动检测刷新可访问状态。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-10-17"
+      },
+      "featured": true,
+      "featured_order": 9
+    },
+    {
       "id": "xiao-he-zi-single",
       "name": "小盒子单仓",
       "url": "http://xhztv.top/xhz",

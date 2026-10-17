@@ -177,8 +177,8 @@ if (availabilityData?.generated_at !== null) {
     if (resource?.category === "open_source") {
       continue;
     }
-    // A resource added after this report was generated has not been checked yet.
-    if (Date.parse(resource?.source?.added_at ?? "") > Date.parse(availabilityData.generated_at)) {
+    // added_at has day precision; a resource added on the report's day may be newer than the report.
+    if (resource?.source?.added_at >= availabilityData.generated_at.slice(0, 10)) {
       continue;
     }
     check(
