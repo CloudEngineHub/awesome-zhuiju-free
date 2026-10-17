@@ -92,10 +92,10 @@ for (const [index, resource] of (resourcesData?.resources ?? []).entries()) {
       `${path}.link_url: expected HTTP or HTTPS URL`
     );
   }
-  if (resource.category === "tvbox_config") {
+  if (["tvbox_config", "subscription"].includes(resource.category)) {
     check(
       typeof resource.url === "string" && /^https?:\/\//.test(resource.url),
-      `${path}.url: expected HTTP or HTTPS URL for tvbox_config`
+      `${path}.url: expected HTTP or HTTPS URL for tvbox_config or subscription`
     );
   } else {
     check(

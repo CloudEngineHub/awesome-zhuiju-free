@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-120_个资源-00A98F?style=flat-square" alt="已收录 120 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-124_个资源-00A98F?style=flat-square" alt="已收录 124 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--17-00B4D8?style=flat-square" alt="检测时间 2026-10-17" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -77,8 +77,8 @@
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-6F42C1?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-7-00B4D8?style=flat-square" alt="TVBox/影视仓空壳"></a>
-  <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-16-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
-  <a href="#直播源"><img src="https://img.shields.io/badge/直播源-2-E91E63?style=flat-square" alt="直播源"></a>
+  <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-17-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
+  <a href="#直播源"><img src="https://img.shields.io/badge/直播源-3-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-15-181717?style=flat-square" alt="开源项目"></a>
 </p>
@@ -266,6 +266,7 @@
 | 老刘备 | `https://raw.liucn.cc/box/m.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:lao-liu-bei -->🟢&#8288;可&#8288;访问<!-- /availability:lao-liu-bei --> | <!-- availability-date:lao-liu-bei -->2026&#8209;10&#8209;17<!-- /availability-date:lao-liu-bei --> |
 | 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;10&#8209;17<!-- /availability-date:xiao-ma --> |
 | 小盒子单仓 | `http://xhztv.top/xhz` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-single -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-single --> | <!-- availability-date:xiao-he-zi-single -->2026&#8209;10&#8209;17<!-- /availability-date:xiao-he-zi-single --> |
+| 伦理接口 | `http://47.96.82.41:5188/rose/18/xgg.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:lun-li-tvbox -->⚪&#8288;未&#8288;检测<!-- /availability:lun-li-tvbox --> | <!-- availability-date:lun-li-tvbox -->未检测<!-- /availability-date:lun-li-tvbox --> |
 | 嗷呜 | `http://itv666.cc/aowu/config.webp` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ao-wu -->🟢&#8288;可&#8288;访问<!-- /availability:ao-wu --> | <!-- availability-date:ao-wu -->2026&#8209;10&#8209;17<!-- /availability-date:ao-wu --> |
 | 无名 | `https://6800.kstore.vip/fish.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:wu-ming -->🟡&#8288;访问&#8288;受限<!-- /availability:wu-ming --> | <!-- availability-date:wu-ming -->2026&#8209;10&#8209;17<!-- /availability-date:wu-ming --> |
 | 小盒子多仓 | `http://xhztv.top/dc` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-multi -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-multi --> | <!-- availability-date:xiao-he-zi-multi -->2026&#8209;10&#8209;17<!-- /availability-date:xiao-he-zi-multi --> |
@@ -277,10 +278,11 @@
 
 ### 直播源
 
-| 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
+| 资源 | 地址 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
-| [IPTV神器Pro](<https://iptv.cqshushu.com/>) | 免费IPTV直播源（[@goodsand](<https://github.com/goodsand>)贡献） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:iptv-cqshushu-com-31 -->🔴&#8288;无法&#8288;访问<!-- /availability:iptv-cqshushu-com-31 --> | <!-- availability-date:iptv-cqshushu-com-31 -->2026&#8209;10&#8209;17<!-- /availability-date:iptv-cqshushu-com-31 --> |
-| [IPTV-org](<https://github.com/iptv-org/iptv>) | 社区维护的公开 IPTV 频道集合 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:iptv-org -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-org --> | <!-- availability-date:iptv-org -->2026&#8209;10&#8209;17<!-- /availability-date:iptv-org --> |
+| VMA直播源 | `https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:vma-iptv-source -->⚪&#8288;未&#8288;检测<!-- /availability:vma-iptv-source --> | <!-- availability-date:vma-iptv-source -->未检测<!-- /availability-date:vma-iptv-source --> |
+| 饭太硬直播源 | `http://www.饭太硬.cc/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fan-tai-ying-iptv -->⚪&#8288;未&#8288;检测<!-- /availability:fan-tai-ying-iptv --> | <!-- availability-date:fan-tai-ying-iptv -->未检测<!-- /availability-date:fan-tai-ying-iptv --> |
+| 肥猫直播源 | `http://肥猫.net/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao-iptv -->⚪&#8288;未&#8288;检测<!-- /availability:fei-mao-iptv --> | <!-- availability-date:fei-mao-iptv -->未检测<!-- /availability-date:fei-mao-iptv --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 

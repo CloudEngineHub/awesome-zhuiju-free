@@ -1,4 +1,4 @@
-# 影视仓配置地址整理：15 个可复制的 TVBox / 影视仓接口
+# 影视仓配置地址整理：16 个可复制的 TVBox / 影视仓接口
 
 很多人安装好影视仓、TVBox 类应用之后，第一步就卡在「配置地址」上：软件能打开，但不知道该填哪个接口。
 
@@ -22,6 +22,7 @@
 | 小盒子4K | `http://xhztv.top/4k.json` |
 | 创享影视 | `https://ys.cxkjg.cn/api/provide/tvbox` |
 | [影仓](https://124.71.19.220/) | `http://124.71.19.220/c/1` |
+| 伦理接口 | `http://47.96.82.41:5188/rose/18/xgg.json` |
 | 老刘备 | `https://raw.liucn.cc/box/m.json` |
 | 小马 | `https://szyyds.cn/tv/x.json` |
 | 小盒子单仓 | `http://xhztv.top/xhz` |

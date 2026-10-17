@@ -382,12 +382,13 @@ function categorySection(category, resources, availabilityById) {
         : category.id === "video_app"
           ? videoAppTableFor(categoryResources, availabilityById)
         : tableFor(categoryResources, availabilityById, {
-            summaryHeading: category.id === "tvbox_config" ? "地址" : "简介",
+            summaryHeading: ["tvbox_config", "subscription"].includes(category.id) ? "地址" : "简介",
             thirdHeading: "推荐指数",
             plainName: (resource) =>
-              category.id === "tvbox_config" && !resource.link_url,
+              ["tvbox_config", "subscription"].includes(category.id) && !resource.link_url,
             showUrlInSummary: (resource) =>
-              category.id === "tvbox_config" && resource.summary_short === "影视仓配置地址"
+              (category.id === "tvbox_config" && resource.summary_short === "影视仓配置地址") ||
+              category.id === "subscription"
           });
   } else {
     content =
