@@ -5691,11 +5691,11 @@
     },
     {
       "id": "github-com-49",
-      "name": "nTv 直播软件 网页电视app",
+      "name": "nTv 直播软件",
       "url": "https://github.com/buhanzhe/NativeWasmTv",
       "category": "open_source",
-      "summary": "nTv 是一款面向 Android 电视、电视盒子、平板和手机的横屏直播播放器，重点优化遥控器操作、老旧设备兼容性和央视直播稳定性。\n简介修改为：横屏直播播放器\n资源名称修改为：nTv 直播软件",
-      "summary_short": "简介修改为：横屏直播播放器 资源名称修改为：nTv 直播软件",
+      "summary": "横屏直播播放器",
+      "summary_short": "横屏直播播放器",
       "tags": [
         "开源项目"
       ],

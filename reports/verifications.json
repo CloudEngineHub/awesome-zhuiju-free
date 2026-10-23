@@ -1046,6 +1046,21 @@
       },
       "result": "pending_review",
       "notes": "维护者要求将看看鸭加入在线影视首位，五星，简介“高清无广告新站”；后台已通过 ego-browser 添加并确认位于分类首位，未独立验证播放及广告情况。"
+    },
+    {
+      "id": "verify-20261023-ntv-metadata",
+      "resource_ids": [
+        "github-com-49"
+      ],
+      "checked_at": "2026-10-23",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "metadata update"
+      },
+      "result": "pending_review",
+      "notes": "按维护者要求将资源名称修正为“nTv 直播软件”，简介及短简介修正为“横屏直播播放器”，清除误入简介的修改指令。"
     }
   ]
 }

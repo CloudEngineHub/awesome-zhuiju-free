@@ -313,7 +313,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,591 | 2026-05-25 |
 | [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 1,744 | 2026-10-12 |
 | [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 704 | 2026-10-19 |
-| [nTv 直播软件 网页电视app](<https://github.com/buhanzhe/NativeWasmTv>) | 简介修改为：横屏直播播放器 资源名称修改为：nTv 直播软件 | 363 | 2026-10-23 |
+| [nTv 直播软件](<https://github.com/buhanzhe/NativeWasmTv>) | 横屏直播播放器 | 363 | 2026-10-23 |
 | [sky-tv](<https://github.com/sky22333/sky-tv>) | 现代化跨平台视频播放器空壳应用 | 130 | 2026-10-03 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
