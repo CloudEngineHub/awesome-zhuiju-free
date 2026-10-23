@@ -23,9 +23,9 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-124_个资源-00A98F?style=flat-square" alt="已收录 124 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-125_个资源-00A98F?style=flat-square" alt="已收录 125 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--22-00B4D8?style=flat-square" alt="检测时间 2026-10-22" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--23-00B4D8?style=flat-square" alt="检测时间 2026-10-23" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma528/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -71,7 +71,7 @@
 
 <!-- featured-resources:start -->
 <p align="center">
-  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-45-0A66C2?style=flat-square" alt="在线影视"></a>
+  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-46-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-4-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
@@ -98,6 +98,7 @@
 
 | 资源 | 简介 | 推荐指数 | 状态 | 检测时间 |
 | --- | --- | :---: | :---: | :---: |
+| [看看鸭](<https://www.kankanya.me/>) | 高清无广告新站 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kankanya -->⚪&#8288;未&#8288;检测<!-- /availability:kankanya --> | <!-- availability-date:kankanya -->未检测<!-- /availability-date:kankanya --> |
 | [创享影视](<https://ys.cxkjg.cn/>) | 无广告三网高峰秒播（[@zxaay](<https://github.com/zxaay>)贡献） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ys-cxkjg-cn-39 -->🟢&#8288;可&#8288;访问<!-- /availability:ys-cxkjg-cn-39 --> | <!-- availability-date:ys-cxkjg-cn-39 -->2026&#8209;10&#8209;23<!-- /availability-date:ys-cxkjg-cn-39 --> |
 | [洛雪TV](<https://tv.lxyy.club/>) | 4K无广告（[@anyongki](<https://github.com/anyongki>)贡献） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tv-lxyy-club-36 -->🟢&#8288;可&#8288;访问<!-- /availability:tv-lxyy-club-36 --> | <!-- availability-date:tv-lxyy-club-36 -->2026&#8209;10&#8209;23<!-- /availability-date:tv-lxyy-club-36 --> |
 | [西瓜影视](<https://www.kanmovie.com/>) | 没有搜不到的资源（[@miaodongsu7](<https://github.com/miaodongsu7>)贡献） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kanmovie-com-34 -->🟢&#8288;可&#8288;访问<!-- /availability:kanmovie-com-34 --> | <!-- availability-date:kanmovie-com-34 -->2026&#8209;10&#8209;23<!-- /availability-date:kanmovie-com-34 --> |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-11",
+  "updated_at": "2026-10-23",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -1031,6 +1031,21 @@
       },
       "result": "pending_review",
       "notes": "根据维护者要求修改 TVBox/影视仓空壳分类中的影视仓和 WebHomeTV 简介；仅调整文案，未重新验证软件功能。"
+    },
+    {
+      "id": "verify-20261023-kankanya",
+      "resource_ids": [
+        "kankanya"
+      ],
+      "checked_at": "2026-10-23",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "维护者要求将看看鸭加入在线影视首位，五星，简介“高清无广告新站”；后台已通过 ego-browser 添加并确认位于分类首位，未独立验证播放及广告情况。"
     }
   ]
 }
