@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-125_个资源-00A98F?style=flat-square" alt="已收录 125 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-126_个资源-00A98F?style=flat-square" alt="已收录 126 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--10--23-00B4D8?style=flat-square" alt="检测时间 2026-10-23" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -80,7 +80,7 @@
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-17-38BDF8?style=flat-square" alt="TVBox/影视仓配置地址"></a>
   <a href="#直播源"><img src="https://img.shields.io/badge/直播源-3-E91E63?style=flat-square" alt="直播源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-F97316?style=flat-square" alt="会员拼团"></a>
-  <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-15-181717?style=flat-square" alt="开源项目"></a>
+  <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-16-181717?style=flat-square" alt="开源项目"></a>
 </p>
 
 <details>
@@ -106,7 +106,7 @@
 | [ZIP0](<https://zip0.com/?r=KBDIG8>) | 在线影视搜索与播放 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:zip0 -->🟢&#8288;可&#8288;访问<!-- /availability:zip0 --> | <!-- availability-date:zip0 -->2026&#8209;10&#8209;23<!-- /availability-date:zip0 --> |
 | [剧OK](<https://juok3.top/>) | 最新电视剧、最新电影 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:juok -->🟡&#8288;访问&#8288;受限<!-- /availability:juok --> | <!-- availability-date:juok -->2026&#8209;10&#8209;23<!-- /availability-date:juok --> |
 | [剧踪影院](<https://www.juzong01.me/>) | 海内外 SVIP 超前更新 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:juzong -->🟡&#8288;访问&#8288;受限<!-- /availability:juzong --> | <!-- availability-date:juzong -->2026&#8209;10&#8209;23<!-- /availability-date:juzong --> |
-| [简云影视](<https://jianyunys.com/>) | 纯净无广告/1080P高清秒播 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:jianyunys -->🟢&#8288;可&#8288;访问<!-- /availability:jianyunys --> | <!-- availability-date:jianyunys -->2026&#8209;10&#8209;23<!-- /availability-date:jianyunys --> |
+| [简云影视](<https://jianyunys.com/>) | 纯净无广告/1080P高清秒播 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:jianyunys -->🔴&#8288;无法&#8288;访问<!-- /availability:jianyunys --> | <!-- availability-date:jianyunys -->2026&#8209;10&#8209;23<!-- /availability-date:jianyunys --> |
 | [片库](<https://4k01.pianku.online/>) | 纯净无广告/1080P高清秒播 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:pianku -->🟢&#8288;可&#8288;访问<!-- /availability:pianku --> | <!-- availability-date:pianku -->2026&#8209;10&#8209;23<!-- /availability-date:pianku --> |
 | [66 大片网](<https://www.77dpw.vip/>) | 免费电影在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:66-dapianwang -->🟢&#8288;可&#8288;访问<!-- /availability:66-dapianwang --> | <!-- availability-date:66-dapianwang -->2026&#8209;10&#8209;23<!-- /availability-date:66-dapianwang --> |
 | [嘀嗒影视](<https://www.didahd.xyz/>) | 高分电影聚集地，超清秒播 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:didahd -->🟡&#8288;访问&#8288;受限<!-- /availability:didahd --> | <!-- availability-date:didahd -->2026&#8209;10&#8209;23<!-- /availability-date:didahd --> |
@@ -313,6 +313,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | [SeleneTV](<https://github.com/MoonTechLab/Selene>) | MoonTV v100/Helios 后端客户端 | 2,591 | 2026-05-25 |
 | [WebHomeTV](<https://github.com/fish2018/webhtv>) | 基于 FongMi/CatVod 二开的 Android 影音应用 | 1,744 | 2026-10-12 |
 | [WebHomeTV2](<https://github.com/Silent1566/webhtv>) | 基于 WebHomeTV 二开，支持 TMDB 海报 | 704 | 2026-10-19 |
+| [nTv 直播软件 网页电视app](<https://github.com/buhanzhe/NativeWasmTv>) | 简介修改为：横屏直播播放器 资源名称修改为：nTv 直播软件 | 363 | 2026-10-23 |
 | [sky-tv](<https://github.com/sky22333/sky-tv>) | 现代化跨平台视频播放器空壳应用 | 130 | 2026-10-03 |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
@@ -412,7 +413,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 <td align="center" width="96">
   <a href="https://github.com/goodsand"><img src="https://images.weserv.nl/?url=github.com/goodsand.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@goodsand"></a><br>
   <sub><strong>@goodsand</strong></sub><br>
-  <sub>2 个资源</sub>
+  <sub>3 个资源</sub>
 </td>
 <td align="center" width="96">
   <a href="https://github.com/LFNHHHHH"><img src="https://images.weserv.nl/?url=github.com/LFNHHHHH.png&h=96&w=96&fit=cover&mask=circle" width="56" height="56" alt="@LFNHHHHH"></a><br>

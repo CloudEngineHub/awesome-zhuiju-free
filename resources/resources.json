@@ -5688,6 +5688,53 @@
       },
       "featured": true,
       "featured_order": 2
+    },
+    {
+      "id": "github-com-49",
+      "name": "nTv 直播软件 网页电视app",
+      "url": "https://github.com/buhanzhe/NativeWasmTv",
+      "category": "open_source",
+      "summary": "nTv 是一款面向 Android 电视、电视盒子、平板和手机的横屏直播播放器，重点优化遥控器操作、老旧设备兼容性和央视直播稳定性。\n简介修改为：横屏直播播放器\n资源名称修改为：nTv 直播软件",
+      "summary_short": "简介修改为：横屏直播播放器 资源名称修改为：nTv 直播软件",
+      "tags": [
+        "开源项目"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-10-23",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-10-23 中国大陆。 维护者补充：简介修改为：横屏直播播放器\n资源名称修改为：nTv 直播软件 提交者风险说明：未知"
+      },
+      "source": {
+        "submitted_by": "@goodsand",
+        "added_at": "2026-10-23"
+      },
+      "featured": true,
+      "github": {
+        "full_name": "buhanzhe/NativeWasmTv",
+        "stars": 363,
+        "pushed_at": "2026-10-23T06:35:47Z"
+      }
     }
   ]
 }
