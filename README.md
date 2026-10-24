@@ -60,13 +60,10 @@
 
 ### 广告 · 支持项目运营
 
-> **ChatGPT Plus订阅 ¥128/月**<br>
-> 官方渠道 · 1 分钟到账 · 全程质保<br>
-> [点击充值你的账号](https://prodclub.xyz/r/3F8974?src=github)
-
-> 流量卡 **月租29元200G**<br>
-> 官方授权渠道 · 运营商发货<br>
-> [立即点击办理](https://htx.haotianxia666.cn/home/4a23c334a902ca6b)
+- **ChatGPT Plus订阅 ¥128/月**<br>
+  官渠代充 · 1 分钟到账 · 全程质保 · [点击充值你的账号](https://prodclub.xyz/r/3F8974?src=github)
+- 流量卡 **月租29元200G**<br>
+  官方授权 · 运营商发货 · [点击办理低价流量卡](https://htx.haotianxia666.cn/home/4a23c334a902ca6b)
 
 <sub>商业广告，与影视资源推荐、评分和收录无关。</sub>
 
