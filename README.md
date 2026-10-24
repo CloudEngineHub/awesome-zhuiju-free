@@ -60,8 +60,9 @@
 
 ### 广告 · 支持项目运营
 
-> **ChatGPT 会员订阅｜Plus ¥128/月**<br>
-> 官方渠道 · 1 分钟到账 · 全程质保 · [点击充值](https://prodclub.xyz/r/3F8974?src=github)
+> **ChatGPT Plus订阅 ¥128/月**<br>
+> 官方渠道 · 1 分钟到账 · 全程质保<br>
+> [点击充值你的账号](https://prodclub.xyz/r/3F8974?src=github)
 
 <sub>商业广告，与影视资源推荐、评分和收录无关。</sub>
 
